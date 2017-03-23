@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "comingsoon.html",
+    "currentPage": "index.html",
     "name": "PosModule.com",
     "theme": {
       "name": "mobirise3",
@@ -150,7 +150,7 @@
           },
           "title": "POS Module",
           "text": "Das Shopify-Addon für die österreichische Registrierkassensicherheitsverordnung vom 1. April 2017",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://shopify.com\" data-toolbar=\"-mbrBtnMove\">Addon Installieren</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"comingsoon.html\" data-toolbar=\"-mbrBtnMove\">Addon Installieren</a> "
         },
         {
           "_styles": {
@@ -247,7 +247,7 @@
           "title3": "3. POS Module",
           "subtitle3": "Installieren und Konfigurieren",
           "caption3": "Um Rechnungen in Österreich gemäß der RKSV vom 1. April mit Shopify POS ausdrucken zu können, muss das POS Module Plugin pro Standort installiert werden.<br><br>Nach der installation werden Sie aufgefordert die nötigen Daten einzugeben. Danach kümmern wir uns um die Bereitstellung der Kassa. Sie müssen nur mehr im Finanz.Online die Kassennummer eintragen.",
-          "button3": "<a data-app-btn=\"true\" href=\"comingsoon\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">App im Shopify Appstore</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"comingsoon.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">App im Shopify Appstore</a>",
           "media4": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/paid-invoice-600x400.jpg",
@@ -337,7 +337,7 @@
           },
           "title": "Das ist Shopify POS",
           "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Zu Shopify Wechseln</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://shopify.com\" data-toolbar=\"-mbrBtnMove\">Zu Shopify Wechseln</a>"
         },
         {
           "_tags": [
