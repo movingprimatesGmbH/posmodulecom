@@ -1,0 +1,1324 @@
+{
+  "settings": {
+    "currentPage": "comingsoon.html",
+    "name": "PosModule.com",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#c0a375",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false,
+        "isRtl": false
+      }
+    },
+    "versionFirst": "3.12.1",
+    "uniqCompNum": 33,
+    "versionPublish": "3.12.1",
+    "favicon": "",
+    "noImageResize": ""
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "POSModule: Shopify und RKSV",
+        "meta_descr": "POSModule ist das Addon für Shopify für die österreichische Registrierkassensicherheitsverordnung (RKSV)",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-5",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/icon-square-128x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">POS Module</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-f\">SO GEHT'S</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"preise.html\">&nbsp;PREISE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"faq.html\">FAQ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"comingsoon.html\">BUY</a></li>"
+        },
+        {
+          "_name": "header1",
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_anchor": "header1-1",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1333.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "POS Module",
+          "text": "Das Shopify-Addon für die österreichische Registrierkassensicherheitsverordnung vom 1. April 2017",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://shopify.com\" data-toolbar=\"-mbrBtnMove\">Addon Installieren</a> "
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-b",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "So funktioniert's",
+          "meta": "Mit Shopify POS und POS Module - so einfach geht's!"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-f",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "3",
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/mbr-600x400.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "1. Shopify POS",
+          "subtitle1": "Shopify ist die Grundlage",
+          "caption1": "Um das POS Module nutzen zu können brauchen Sie ein funktionierendes und aktiviertes Shopify POS App, welches am iPad läuft.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://shopify.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Shopify Website</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/printer-1910679-600x312.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "<br>2. AirPrint",
+          "subtitle2": "Ein AirPrint fähier Drucker",
+          "caption2": "Um Rechnungen ausdrucken zu können setzt POS Module auf den Shopify \"OrderPrinter\". Dieses App benötigt einen AirPrint fähigen Drucker. <br><br>Ein zusätzlicher Bon-Drucker wird <b>nicht</b> mehr benötigt, ist aber möglich.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://geizhals.at/?cat=prl&amp;xf=721_AirPrint\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Liste der AirPrint Drucker</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/tom1808-600x367.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "3. POS Module",
+          "subtitle3": "Installieren und Konfigurieren",
+          "caption3": "Um Rechnungen in Österreich gemäß der RKSV vom 1. April mit Shopify POS ausdrucken zu können, muss das POS Module Plugin pro Standort installiert werden.<br><br>Nach der installation werden Sie aufgefordert die nötigen Daten einzugeben. Danach kümmern wir uns um die Bereitstellung der Kassa. Sie müssen nur mehr im Finanz.Online die Kassennummer eintragen.",
+          "button3": "<a data-app-btn=\"true\" href=\"comingsoon\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">App im Shopify Appstore</a>",
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/paid-invoice-600x400.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title4": "4. Unlimitierte Rechnungen",
+          "subtitle4": "Mit eleganten Templates in A4",
+          "caption4": "Mit Shopify ist es nur möglich kleine Bons zu drucken, Mit dem Addon \"OrderPrinter\" können Rechnungen elegant gestaltet werden.&nbsp;",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-c",
+          "_params": {
+            "imageSize": "50",
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=8y4JzCopAPg",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Das ist Shopify POS",
+          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Zu Shopify Wechseln</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons1",
+          "_anchor": "social-buttons1-9",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "facebook": true,
+            "twitter": true,
+            "google": true,
+            "vkontakte": false,
+            "odnoklassniki": false
+          },
+          "text": "TEILE UNS MIT DEINEN FREUNDEN"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_anchor": "contacts2-6",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C",
+            "googleMap": {
+              "address": "Graz, Neubaugasse 24",
+              "placeId": "ChIJNUuTcpw1bkcRefWyN2qaTKQ",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>Adresse</strong><br>Craft-IT<br>Neubaugasse 24,<br>8020 Graz<br><br><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Kontakt</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br>\nEmail: office@posmodule.com<br>Telefon: +43 660 799 48 97<br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Mehr</strong></p><ul><li><a href=\"agb.html\">Allgemeine Geschäftsbedingungen</a></li><li>POS Module auf Facebook</li><br></ul>"
+        }
+      ]
+    },
+    "agb.html": {
+      "settings": {
+        "title": "POSModule: Allgemeine Geschäftsbedingungen",
+        "meta_descr": "Allgemeine Geschäftsbedingungen Posmodule.com"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-family": "'Montserrat', sans-serif"
+            },
+            ".link": {
+              "font-size": "1.05rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.137rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-0",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": "1.05",
+            "fontName": {
+              "name": "Montserrat",
+              "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "css": "'Montserrat', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">OVERVIEW</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">FEATURES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile friendly</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Based on Bootstrap</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">Trendy blocks</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Host anywhere</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-1",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Mobirise."
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-3",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "Allgemeine Geschäftsbedingungen",
+          "text": "<p>posmodule.com</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-4",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<h1><b style=\"color: inherit; font-size: 2.5rem; line-height: 1.1;\">POS-Modul Shopify RKSV 2017</b><br></h1><p>Posmodule.com tritt als Auftragnehmer zur Bereitstellung eines Addons für Shopify auf. Umfang des Addons ist die Erweiterung bestehender Shopify-POS Systeme zur Einhaltung der Österreichischen Registrierkassensicherheitsverordnung die am 1.April 2017 in Kraft tritt.&nbsp;</p><p><br></p><p>Diese Allgemeinen Geschäftsbedingungen regeln die Beziehung zwischen dem Auftragnehmer posmodule.com (nachfolgend „AN“ oder „posmodule.com“ oder „Posmodule.com“ oder kurz „Posmodule“ genannt) über die Erbringung von Dienstleistungen und dem Auftraggeber, welcher sich das Addon herunterlädt, installiert und/oder benutzt (nachfolgend „AG“, „Kunde“, „Nutzer“ oder „Shopbesitzer“ genannt).</p><p>Diese Systeme werden nur an Gewerbetreibende/selbständig Erwerbstätige verkauft und nicht an Verbraucher im Sinne des Verbraucherschutzgesetzes.&nbsp;</p><p><br></p><p>Aufgrund besserer Lesbarkeit werden diese AGBs ausschließlich in männlicher Form zur Verfügung gestellt. Die weibliche Form ist immer miteingeschlossen.</p><p><br></p><h3>Anerkennung der Allgemeinen Geschäftsbedingungen</h3><p>Mit der Registrierung bei posmodule.com und der damit verbundenen Dienstleistungen erklärt der AG (Nutzer des Addon) diese Allgemeinen Geschäftsbedingungen vollständig gelesen, verstanden und vollinhaltlich akzeptiert zu haben.</p><p><br></p><p>Lieferungen, Leistungen und Angebote unseres Unternehmens erfolgen ausschließlich auf Grundlage dieser Geschäftsbedingungen in ihrer zum Zeitpunkt der Bestellung gültigen Fassung. Entgegenstehende oder von unseren Geschäftsbedingungen abweichende Bedingungen des Kunden erkennen wir nicht an, es sei denn, wir hätten ausdrücklich ihrer Geltung schriftlich zugestimmt.</p><p><br></p><p>Posmodule.com behält sich das Recht vor, diese AGB jederzeit und ohne Nennung von Gründen zu ändern. Änderungen werden zeitnah, üblicherweise binnen 2 Wochen vor dem Inkrafttreten der Änderungen, dem Nutzer per Email kommuniziert. Der Nutzer kann den AGB durch die Löschung des Addons wiedersprechen. Eine allfällige Löschung hat binnen 2 Wochen zu erfolgen. Das Einverständnis des Nutzers ist automatisch durch die Weiterbenutzung des Addons gegeben</p><p><br></p><h3>Leistungen und Leistungsumfang vom AN (posmodule.com)</h3><p>Posmodule.com erbringt als Leistung ein Addon welches die Software „Shopify“, im Speziellen die POS Funktionalität um eine RKSV 2017 konforme Lösung erweitert, sodass ab Inbetriebnahme der Dienstleistung des AN die Richtlinien für die RKSV 2017 mit einem Shopify POS System erfüllt werden.&nbsp;</p><p><br></p><p>Es wird ein Addon zur Verfügung gestellt, welches im Shopify App-Store als Abonnement zu erwerben ist. Mit der Registrierung, der Bezahlung der Einrichtungsgebühr und der monatlichen entgeltlichen Erneuerung dieses Addon-Abonnements bietet posmodule.com an, die Funktionalität eines Shopify POS Systems mittels des Addons so zu erweitern, dass die mittels des Shopify POS erfassten Bareinnahmen den Richtlinien der RKSV 2017 entsprechen und über die Software „OrderPrinter“ gedruckte Belege signiert sind.&nbsp;</p><p><br></p><p>Hierfür stellt posmodule.com unterschiedliche Software zur Verfügung, aber zumindest ein Addon und ein Administrationsportal, um auf den Inhalt des Datenerfassungsprotokolls zuzugreifen und konform der Anforderungen der Richtlinie der RKSV 2017 herunterzuladen. Weiters bietet das Administrationsportal die Möglichkeit Jahreabschlüsse zu erstellen und herunterzuladen, sowie „0-er Belege“ zu generieren.</p><p>Im Vertrag sind keinerlei Support, Wartung, Einrichtungsgebühren oder andere Gebühren oder Leistungen enthalten als die bereits beschriebenen.&nbsp;</p><p><br></p><h3>Pflichten des AG (Kunde, Nutzer, Shopbesitzer)</h3><p>Der Auftraggeber (Kunde, oder Nutzer) verpflichtet sich, die zur Verfügung gestellte Software, Plattform, Addon, etc. nicht missbräuchlich zu nutzen. Insbesondere keine Viren oder andere Schadsoftware einzubringen, sowie von jedweder Nutzung abzusehen, die zu einer negativen Beeinflussung führt.&nbsp;</p><p><br></p><p>Für alle technischen, personellen, wirtschaftlichen und rechtlichen Voraussetzungen, die für die Nutzung des Addons erforderlich sind, ist der Kunde verantwortlich. Hierunter fallen insbesondere entsprechende Hardware, Software Lizenzen, ein Internet Zugang und alle anderen Notwendigkeiten um Shopify und die Shopify POS Lösung in Verbindung mit der zur Verfügung gestellten Dienstleistung durch posmodule.com nutzen zu können. Auch trägt der Kunde die Verantwortung für entstandene Internetgebühren oder andere Gebühren für die Bereitstellung der notwenigen Systeme. Der AN übernimmt hier keine Haftung jedweder Art, sofern nicht gesetzlich anders geregelt.</p><p>Posmodule.com behält sich das Recht vor die Software, das Design, das Administrationsportal zu ändern und/oder zu verbessern. Ein Anspruch auf die dadurch entstehenden optischen oder inhaltlichen Änderungen besteht nicht.</p><p><br></p><p>Der AG verpflichtet sich die Software nur für die vorgegebenen Zwecke zu nutzen.</p><p><br></p><p>Der AG hält den AN sowie sonstige Dritte, die zur Erfüllung der Dienstleistung vom AN beauftragt wurden hinsichtlich aller sonstigen Schäden klag- und schadlos, die aufgrund einer rechtswidrigen, missbräuchlichen oder sonst pflichtwidrigen Verwendung des Addons oder der Administrationsplattform und der damit verbundenen Leistungen entstanden sind. Erfasst sind insbesondere auch Schäden, die sich aus der unrichtigen Angabe von Daten und Fakten ergeben, oder aus der Verletzung personenrechtlicher, urheberrechtlicher, datenschutzrechtlicher oder sonstiger Normen durch die Kunden.</p><p><br></p><p>Der AG ist verpflichtet Änderungen der Daten unverzüglich dem AN zu übermitteln. Weiteres sind Personen- und Unternehmensangaben immer wahrheitsgemäß zu machen.</p><p><br></p><p>Der Benutzer der zur Verfügung gestellten Software verpflichtet sich die Login Daten sowie jegliche anderen Daten in Verbindung mit der Software geheim zu halten. Insbesondere sind hier auch die AES Keys hervorgehoben, die eine Entschlüsselung des Umsatzzählers ermöglichen. Der AG haftet für missbräuchliche oder unbefugte Nutzung, insbesondere der Login-Daten oder des AES Keys. Wird dem Benutzer der Software und/oder dem AG bekannt, dass Unbefugte Zutritt erlangt haben, ist der AN unverzüglich davon in Kenntnis zu setzen.</p><p><br></p><h3>Entgelte und Preise</h3><p>Für die Nutzung des Addons ist eine entgeltliche Vertragsbeziehung notwendig. Die Preise für das Addon sind im Shopify Addon-Store sowie auf der posmodule.com Website ersichtlich. Für die einmalige Einrichtung des Addons wird eine Gebühr fällig, sowie gibt es laufende monatliche Entgelte. Alle angegebenen Preise verstehen sich netto, ohne UST.</p><p><br></p><p>Posmodule.com behält sich das Recht vor, Preise für Neukunden jederzeit ohne Angabe von Gründen anzupassen. Auch behält sich posmodule.com das Recht vor, die Preise für Bestandskunden entsprechend einer jährlichen Indexanpassung bzw. aufgrund anderer kostenrelevanter Parameter anzupassen und zu erneuern. Kunden werden zeitnah, üblicherweise ein Monat im Voraus, über eine Preisanpassung informiert und der neue Preis gilt als akzeptiert, wenn das Addon weiterverwendet wird.&nbsp;</p><p><br></p><h3>Kündigung der Vertragsbedingung</h3><p>Der Vertrag wird auf unbestimmte Zeit geschlossen und kann jederzeit und von beiden Parteien unter Einhaltung einer einmonatigen Kündigungsfrist ohne Angabe von Gründen gekündigt werden.&nbsp;</p><p><br></p><p>Nach Beendigung des Vertrages löscht der AN die Kundendaten üblicherweise sofern nicht gesetzlich anders geregelt. Dies bedeutet, dass der AG dem AN das Recht einräumt, dass der AN Kundendaten ganz oder in bestimmten Teilen auf unbestimmte Zeit weiterhin speichern darf. Hier sind insbesondere die Pflicht der Datenaufbewahrung sowie andere rechtliche Verpflichtungen gemeint, die eine unverzügliche Löschung der Daten verhindern. Der AG stimmt dem vollinhaltlich zu.</p><p><br></p><p>Wenn der AG Insolvenz anmeldet oder das Insolvenzverfahren mangels Masse abgelehnt wurde oder wenn der AG mit Zahlungsverpflichtungen aus diesem Vertragsverhältnis im Ausmaß von mindestens einem Monatsentgelt im Verzug ist und er unter Setzung einer Nachfrist und unter Androhung der Vertragsauflösung erfolglos gemahnt wurde, wird der Vertrag seitens des AN automatisch aufgelöst.&nbsp;</p><p><br></p><p>Ebenfalls kann der Vertrag automatisch seitens des AN aufgelöst werden, sollte der AG bei der Nutzung der AN-Dienstleistungen schuldhaft Rechtsvorschriften verletzen, oder Urheberrechte, gewerbliche Schutzreche oder in Namensrechte Dritter eingreifen, oder den Dienst zum Zwecke der Förderung krimineller, gesetzeswidriger oder ethisch bedenklicher Handlungen.</p><p><br></p><h3>Persönliche Daten und Persönlich Identifizierbare Informationen</h3><p>Grundsätzlich gilt, dass die Privatsphäre des Kunden für posmodule.com allerhöchste Priorität hat. Der Nutzer erklärt sich damit einverstanden, dass posmodule.com jegliche seitens des Kunden zur Verfügung gestellten, besonders aber die persönlichen Daten, speichern und verarbeiten darf. Die Daten werden ohne explizites Einverständnis nicht an Dritte weitergegeben, außer zum rechtlichen Schutz von posmodule.com, zur Erfüllung gerichtlicher Auflagen, zur Verteidigung und zum Schutz des Betreibers oder zur Aufrechterhaltung des technischen Betriebes der Dienstleistungen von posmodule.com.&nbsp;</p><p><br></p><h3>Verfügbarkeit und Nutzungsrechte &nbsp;</h3><p>Posmodule.com ist eine SaaS („Software as a Service“) Lösung die über das Internet als „Cloud-Lösung“ funktioniert. Eine Überlassung der Software an den Kunden erfolgt nicht, sondern posmodule.com räumt dem Kunden ein auf die Laufzeit des Vertrages beschränktes, einfaches, nicht unterlizenzierbares und nicht übertragbares Nutzungsrecht für das Addon und die Administrationsplattform, sowie allenfalls weiterer Software ein, die zur Bereitstellung der Dienstleistung seitens des AN notwendig ist.</p><p><br></p><p>Wird die Funktionalität oder das Aussehen der Dienstleistung verändert, gilt dies auch für neue Versionen der zur Verfügung gestellten Software von posmodule.com</p><p><br></p><p>Posmodule.com ist der alleinige Rechte-Inhaber der Software, hat dadurch auch die alleinige Rechte an Verbreitung, Vervielfältigung und Bearbeitung, sowie jegliche anderen Urheberrechte in Bezug auf die Website, das Addon und die Administrationsplattform sowie jedwede weiteres zur Verfügung gestellten Software von posmodule.com.&nbsp;</p><p><br></p><p>Posmodule.com ist stets bemüht die vereinbarten Leistungen rund um die Uhr zur Verfügung zu stellen. <b>Ein zu 100% fehlerfreies und unterbrechungsfreies System kann aus technischen Gründen nicht gewährleistet werden. Jedenfalls ausgeschlossen von der Haftung durch Posmodule.com sind Fälle höherer Gewalt. Auch sind Unterbrechungen der Verfügbarkeit für Wartungszwecke, Unterbrechungen der Verfügbarkeit für Weiterentwicklung sowie systemimmanente Störungen des Internets bei Fremdprovidern bzw. Netzbetreibern von der Haftung durch posmodule.com ausgeschlossen. Der Kunde hat daher ausdrücklich keinerlei Anspruch auf eine jederzeitige und ununterbrochene Zugänglichkeit der Services von posmodule.com.</b></p><p><br></p><p>Planmäßige Unterbrechungen, wie beispielsweise Wartungsarbeiten, werden zeitnah auf der Website sowie per Email angekündigt, zumindest aber 24 Stunden im Voraus. Unplanmäßige Unterbrechungen können jederzeit erfolgen.</p><p><br></p><p>Infrastruktur und Server werden durch Amazon in Rechenzentren in Frankfurt bereitgestellt. Es wird explizit darauf hingewiesen, dass die Datenspeicherung innerhalb der EU, aber die Bereitstellung der Infrastruktur durch ein Unternehmen mit Sitz in Amerika erfolgt. Der Kunde ist sich aller Rechte und Pflichten bewusst bei der Datenspeicherung auf Servern eines außerhalb der EU ansässigen Unternehmens. Entsprechende Allgemeine Geschäftsbedingungen sind auf der Amazon Website zu finden unter https://aws.amazon.com</p><p><br></p><h3>Haftungen von posmodule.com</h3><p>Posmodule.com ist stets bemüht die gebotenen Dienstleistungen 24/7/365 (zu jeder Uhrzeit, an jedem Tag im Jahr) fehlerfrei, frei von Computerviren, frei von schädlichem Computercode und frei von sonstigen Schäden, daher voll funktionsfähig, zur Verfügung zu stellen.</p><p>Gewährleistung</p><p><br></p><p>Bei Mängel, die seitens des AN  zu vertreten sind, hat der AG das Recht auf Verbesserung bzw. Austausch, sofern er die Mängel innerhalb von 7 Tagen ab Kenntnis rügt. Preisminderung oder Wandlung des Geschäftes ist ausgeschlossen.&nbsp;</p><p><br></p><h3>Schadensersatz</h3><p>Soweit in diesen Bedingungen nichts Anderes vorgesehen ist, bleibt unsere Haftung in allen Fällen auf jene Schäden beschränkt, die im Gegenstand unserer Leistungen entstanden sind. Jeder darüberhinausgehende Schadenersatz, insbesondere für Mängelfolgeschäden ist ausgeschlossen, sofern uns nicht grobes Verschulden oder Vorsatz vorwerfbar ist.  Die Verjährungsfrist für Schadenersatzansprüche beträgt 6 Monaten ab Entstehung des Schadens.&nbsp;</p><p><br></p><p>Rügepflicht: Der AG hat einen Schaden innerhalb von 7 Tagen ab Kenntnis dem AN anzuzeigen, bei sonstigen Verlust seiner Ansprüche.</p><p>Posmodule.com haftet nicht für Schäden die durch den Verlust oder Missbrauch von Zugangsdaten des Kunden entstehen.&nbsp;</p><p><br></p><p>Posmodule.com übernimmt keine Haftung für die Eignung der Leistung für den vom Kunden beabsichtigen Zweck.</p><p><br></p><p>Posmodule.com haftet nicht dafür, dass Dritte rechtsmissbräuchlich oder rechtswidrig auf in die vom Kunden in die bei posmodule.com gespeicherten Kundendaten zugreifen oder den zur Verfügung gestellten Dienst verhindern oder stören.</p><p><br></p><p>Posmodule.com übernimmt keine Haftung bei fehlerhaft eingegebenen Daten von Kunden oder Verlust von Information. Posmodule.com übernimmt auch keine Haftung bei Datenverlust bei Verwendung von Fremdsoftware (z.B. weitere Addons in Shopify, oder Shopify selbst).</p><p>Leistungsstörungen aufgrund höherer Gewalt, insbesondere der Ausfall oder die Überlastung von globalen Kommunikationsnetzen sind von posmodule.com nicht zu vertreten, und haftet der AN auch nicht für die daraus entstandenen Schäden.</p><p><br></p><p>Die Haftung für den Ersatz von Folgeschäden, reinen Vermögensschäden, indirekten Schäden, Produktionsausfall, Finanzierungskosten, Kosten für Ersatzenergie, Verlust von Energie, Daten oder Informationen, des entgangenen Gewinns, nicht erzielter Ersparnisse, von Zinsverlusten und von Schäden aus Ansprüchen Dritter gegen posmodule.com sind ausgeschlossen, wenn die Schäden nur durch leichte Fahrlässigkeit des AN entstanden sind</p><p><br></p><p>Posmodule.com haftet für Schäden, nur sofern ihm Vorsatz oder grobe Fahrlässigkeit nachgewiesen werden, im Rahmen der gesetzlichen Vorschriften. Die Gesamthaftung von posmodule.com in Fällen der groben Fahrlässigkeit ist auf einen Nettomonatsabonnementwert der Dienstleistung oder auf EUR 5.000,- begrenzt, je nachdem, welcher Wert niedriger ist. &nbsp;</p><p><br></p><p>Pro Schadensfall ist die Haftung von posmodule.com auf 25% eines Nettomonatsabonnementwertes der zur Verfügung gestellten Dienstleistung oder auf EUR 1.250,-  begrenzt, je nachdem, welcher Wert niedriger ist.</p><p><br></p><h3>Steuern und Gebühren</h3><p>Sofern nicht anders ausdrücklich schriftlich vereinbart, sind in sämtlichen vereinbarten Preisen und Entgelten weder Umsatzsteuer noch sonstige Gebühren und Abgaben enthalten. Werden im Zusammenhang mit der Registrierung oder Leistungserbringung Gebühren, Steuern oder sonstige Abgaben fällig, hat diese der Kunde zu tragen.</p><p><br></p><h3>Kundendienst und Support</h3><p>Posmodule.com verpflichtet sich Emails zeitnah, aber mindestens innerhalb von 2 Werktagen oder früher zu beantworten. Ein Anspruch auf 24h Support oder ähnliches, sofern nicht anders vereinbart, besteht nicht.</p><p><br></p><h3>Salvatorische Klausel</h3><p>Sollten einzelne Bestimmungen dieses Vertrages unwirksam oder undurchführbar sein oder nach Vertragsschluss unwirksam oder undurchführbar werden, bleibt davon die Wirksamkeit des Vertrages im Übrigen unberührt. An die Stelle der unwirksamen oder undurchführbaren Bestimmung soll diejenige wirksame und durchführbare Regelung treten, deren Wirkungen der wirtschaftlichen Zielsetzung am nächsten kommen, die die Vertragsparteien mit der unwirksamen bzw. undurchführbaren Bestimmung verfolgt haben. Die vorstehenden Bestimmungen gelten entsprechend für den Fall, dass sich der Vertrag als lückenhaft erweist.</p><p><br></p><h3>Aufrechnung</h3><p>Eine Aufrechnung gegen unsere Ansprüche mit Gegenforderung, welcher Art auch immer, ist ausgeschlossen.</p><p><br></p><h3>Abtretung</h3><p>Forderungen eines Kunden gegen uns dürfen ohne ausdrücklicher schriftlicher Zustimmung des AN nicht abgetreten werden.&nbsp;</p><p><br></p><h3>Mündliche Vereinbarungen und Nebenabreden</h3><p>Sämtliche an uns gerichtete Erklärungen sowie Vereinbarungen, nachträgliche Änderungen, Ergänzungen, Nebenabreden usw. bedürfen zu ihrer Gültigkeit der Schriftform.&nbsp;</p><p><br></p><h3>Rechtswahl</h3><p>Auf diesen Vertrag ist österreichisches materielles Recht anzuwenden. Vertragssprache ist Deutsch. Die Anwendung des UN-Kaufrechtes wird ausdrücklich ausgeschlossen.</p><p><br></p><h3>Gerichtsstand</h3><p>Zur Entscheidung aller aus dem Vertrag entstehenden Streitigkeiten – einschließlich über sein Bestehen oder Nichtbestehen, ist das sachlich zuständige Gericht am Hauptsitz von Posmodule.com. Sofern daher nicht anders schriftlich vereinbart ist der Gerichtsstand Graz.</p><p><br></p><h3>Rücktrittsrecht und Verbraucherschutz</h3><p>Sollte der AG Verbraucher im Sinne des KSCHG sein, kann er vom Vertrag innerhalb einer Frist von 14 Tagen ohne Angabe von Gründen zurücktreten</p><p><br></p><h3>Produkthaftung</h3><p>Allfällige Regressforderungen, die der Kunde oder Dritte aus dem Titel „Produkthaftung“ i. S. d. PHG gegen uns richten, sind ausgeschlossen, es sei denn, der Regressberechtigte weist nach, dass der Fehler in unserer Sphäre verursacht und zumindest grob fahrlässig verschuldet worden ist.</p><p><br></p><p>AGB Version 23.März 2017</p><p><br></p>"
+        }
+      ]
+    },
+    "preise.html": {
+      "settings": {
+        "title": "POSModule: Preise",
+        "meta_descr": "Preise vom POS Module"
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-g",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/icon-square-128x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">POS Module</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-f\">SO GEHT'S</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"preise.html\">&nbsp;PREISE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"faq.html\">FAQ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"comingsoon.html\">BUY</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-n",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "POS Module",
+          "text": "<p>Schnell und einfach <span style=\"font-size: 1.07rem; line-height: 1.5;\">registrierkassensicherheitsverordnungssicher.</span></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_inherit": "pricing-table1",
+          "_styles": {
+            ".mbr-plan-header, .mbr-plan-body": {
+              "background-color": "#f4f4f4"
+            },
+            "ul, .mbr-plan-title, .mbr-price-value, .mbr-price-figure, .mbr-price-term": {
+              "color": "#28262b"
+            },
+            ".mbr-plan": {
+              "border-color": "#e8e8e8"
+            },
+            ".mbr-plan .list-group-item": {
+              "border-color": "#cfcfcf"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "pricing-table2",
+          "_anchor": "pricing-table2-m",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubtitle": false,
+            "firstType": "",
+            "showButtons": false,
+            "secondType": "",
+            "thirdType": "hidden",
+            "fourthType": "hidden"
+          },
+          "title": "PREISE",
+          "subtitle": "Für POS Module",
+          "label1": "HOT!",
+          "title1": "Einrichtung",
+          "subtitle1": "Einmalige Installation und Einrichtung. Beantragung der Zugangsdaten von A-Trust und Bereitstellung der Zertifikate für Finanz.Online.",
+          "currency1": "€",
+          "price1": "49",
+          "period1": "",
+          "description1": "Einmalige Gebühr wird direkt über Shopify abgerechnet",
+          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><span style=\"font-size: 0.875rem; line-height: 3.125rem;\">Zertifikatbeantragung A-Trust</span></li><li class=\"list-group-item\">Bereitstellung der Daten für Finanz.Online</li></ul>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">DEMO</a>",
+          "label2": "HOT!",
+          "title2": "Kassa",
+          "subtitle2": "Dies ist Ihr Rechnungskreis. <br>Eine Kasse wird pro Standort benötigt.",
+          "currency2": "€",
+          "price2": "15",
+          "period2": "/Mo.",
+          "description2": "pro Standort",
+          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><span style=\"font-size: 0.875rem; line-height: 3.125rem;\">Preis gilt für eine Kassa</span></li><li class=\"list-group-item\"><span style=\"font-size: 0.875rem; line-height: 3.125rem;\">Unlimitiert erweiterbar</span><br></li><li class=\"list-group-item\">Einfach selbst bestimmen welche Kasse zu welchem Standort gehört</li><li class=\"list-group-item\">Unlimitierte Anzahl an iPads</li></ul>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>",
+          "label3": "HOT!",
+          "title3": "PREMIUM",
+          "subtitle3": "Description",
+          "currency3": "$",
+          "price3": "0",
+          "period3": "/mo.",
+          "description3": "More details",
+          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>",
+          "label4": "HOT!",
+          "title4": "ULTIMATE",
+          "subtitle4": "Description",
+          "currency4": "$",
+          "price4": "0",
+          "period4": "/mo.",
+          "description4": "More details",
+          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>"
+        },
+        {
+          "_styles": {
+            ".card-subtitle": {
+              "color": "#bcbcbc"
+            },
+            ".iconbox": {
+              "background-color": "#f2f2f2",
+              "border-color": "#f2f2f2"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features4",
+          "_anchor": "features4-k",
+          "_params": {
+            "iconsBgColor": "#f2f2f2",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": 3,
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": false
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "edit",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "color": "black",
+              "newWindow": false
+            }
+          },
+          "title1": "Einmalig",
+          "subtitle1": "Einrichtung + Setup",
+          "caption1": "Wir verrechnen 49€ einmalig für Installation, Einrichtung und Beantragung der Zertifikate bei A-Trust. Dies ist einmal notwendig, unabhängig wieviele Kassen Sie dann betreiben.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "cart-add",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "color": "black",
+              "newWindow": false
+            }
+          },
+          "title2": "Kassa pro Standort",
+          "subtitle2": "Ein Rechnungskreis ist notwendig pro Standort",
+          "caption2": "Damit Umsatzzähler und Datenerfassungsprotokoll stimmen ist ein Umstazzähler pro Standort notwendig. Daher, egal wie viele iPads Sie benutzen, es wird eine Kassa pro Standort benötigt.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "touch",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "color": "black",
+              "newWindow": false
+            }
+          },
+          "title3": "Unlimitierte iPads",
+          "subtitle3": "Ein Rechnungskreis kann unlimitierte iPads verwenden",
+          "caption3": "An einem Rechnungskreis können Sie dann soviele iPads betreiben wie Sie möchten. Theoretisch unlimitiert viele. Sie wählen den Standort in der Shopify POS App aus und schon sind Sie mit Ihrer Kassa verbunden.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "black",
+              "family": "et-line"
+            }
+          },
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "briefcase",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "black",
+              "family": "et-line"
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "black",
+              "family": "et-line"
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_anchor": "contacts2-h",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C",
+            "googleMap": {
+              "address": "Graz, Neubaugasse 24",
+              "placeId": "ChIJNUuTcpw1bkcRefWyN2qaTKQ",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>Adresse</strong><br>Craft-IT<br>Neubaugasse 24,<br>8020 Graz<br><br><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Kontakt</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br>\nEmail: office@posmodule.com<br>Telefon: +43 660 799 48 97<br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Mehr</strong></p><ul><li><a href=\"agb.html\">Allgemeine Geschäftsbedingungen</a></li><li>POS Module auf Facebook</li><br></ul>"
+        }
+      ]
+    },
+    "faq.html": {
+      "settings": {
+        "title": "POSModule: Frequently Asked Questions",
+        "meta_descr": "Häufig gestellte Fragen über POS Module"
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-o",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/icon-square-128x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">POS Module</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-f\">SO GEHT'S</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"preise.html\">&nbsp;PREISE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"faq.html\">FAQ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"comingsoon.html\">BUY</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-q",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1325.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "FAQ",
+          "text": "<p>Häufig gestellte Fragen</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-r",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><b>Bin ich mit dem POS Module sicher gerüstet für die RKSV 2017?</b></p><p>Ja. Das POSModule ist ein Addon welches einfach bei bestehenden Shopify-Lösungen dazu installiert wird. Installation und Einrichtung dauern ca. einen Werktag, da wir bei A-Trust die Daten beantragen müsssen. Dann leiten wir die an Sie weiter und Sie müssen das in Finanz.Online eintragen.</p><p><br></p><p><b>Wie sieht der Installationsverlauf genau aus?</b></p><p>Sie melden sich bei POSModule an. Sie geben Ihre ATU Nummer und die Anschrift an. Wir beantragen daraufhin die Zugangsdaten bei A-Trust. Danach generieren wir einen Schlüssel (AES Key) zusammen mit den Daten von A-Trust. Diesen Key senden wir an Sie. Sie sind dann dafür verantwortlich, dass der Key zusammen mit den restlichen Daten die wir Ihnen schicken bei Finanz.Online eingetragen wird.</p><p><br></p><p><b>Kann ich mit dem POS Module auch Kassenbons ausdrucken?</b></p><p>Derzeit noch nicht. Wir arbeiten an einer Lösung, aber bis es soweit ist können nur A4 Rechnungen auf AirPrint fähigen Druckern gedruckt werden.</p><p><br></p><p><b>Wenn ich mehrere Standorte habe, was muss ich beachten?</b></p><p>Bei mehreren Standorten haben Sie pro Standort einen s.g. Rechnungskreis. Das bedeutet, dass Umsatzzähler für das Datenerfassungsprotokoll pro Standort getrennt erfasst werden. Damit benötigen Sie pro Standort eine Kassa.&nbsp;</p><p><br></p><p><b>Ich habe mehrere iPads im Einsatz, was muss ich beachten?</b></p><p>Gar nicht viel! Sie müssen bloß eine Kassa pro Standort haben. Sie können aber beliebig viele iPads pro Standort einsetzen.</p><p><br></p><p><b>Wie sieht das mit E-Mail Rechnungen aus?</b></p><p>Rechnungen per Email sind nicht nur erlaubt, sondern sind auch eine umweltfreundliche Alternative zum Papier. POSModule unterstützt Rechnungen per Email.&nbsp;</p><p><br></p><p><b>Wir haben zwei Geschäfte aber nur einen Drucker, ist dies zulässig?</b></p><p>Ja, Sie können zwei verschiedene Geschäfte mit zwei verschiedenen Shopify Benutzern über einen Drucker betreiben. Am Ende müssen Sie dem Kunden den richtigen Beleg mit der richtigen Signatur geben.</p><p><br></p><p><b>Wie sehen die Rechnungen aus? Gibt es Vorlagen?</b></p><p>Ja, wir stellen ein so genanntes Basis-Template zur Verfügung. Das Template selbst ist reines HTML und kann von jedem Web-Designer weiter angepasst werden. Bei einer Anpassung vergewissern Sie sich bitte, dass die Daten (QR Code, Rechnungsdatum/Uhrzeit, Produkte, Steuersätze, etc) noch richtig aufscheinen.</p><p><br></p><p><b>Ich habe noch weitere Fragen</b></p><p>Bitte zögern Sie nicht uns zu kontaktieren. Schreiben Sie uns oder rufen Sie uns an!</p><p><br></p><p><br></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_anchor": "contacts2-p",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C",
+            "googleMap": {
+              "address": "Graz, Neubaugasse 24",
+              "placeId": "ChIJNUuTcpw1bkcRefWyN2qaTKQ",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>Adresse</strong><br>Craft-IT<br>Neubaugasse 24,<br>8020 Graz<br><br><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Kontakt</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br>\nEmail: office@posmodule.com<br>Telefon: +43 660 799 48 97<br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Mehr</strong></p><ul><li><a href=\"agb.html\">Allgemeine Geschäftsbedingungen</a></li><li>POS Module auf Facebook</li><br></ul>"
+        }
+      ]
+    },
+    "comingsoon.html": {
+      "settings": {
+        "title": "POSModule: Coming Soon",
+        "meta_descr": "POSModule gibt es bald!"
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-s",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/icon-square-128x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">POS Module</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-f\">SO GEHT'S</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"preise.html\">&nbsp;PREISE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"faq.html\">FAQ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"comingsoon.html\">BUY</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-u",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "Coming soon!",
+          "text": "<p>Wir arbeiten mit Volldampf!</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-v",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "4",
+            "bgColor": "#fff"
+          },
+          "text": "<p>Wir arbeiten derzeit mit Volldampf an den letzten Details. Natürlich können wir keine Software veröffentlichen die nicht getestet wurde und funktioniert. </p><p><br></p><p>Voraussichtlicher Termin zur Fertigstellung: Woche 27.März bis 1.April..</p>",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#a0a0a0"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form2",
+          "_anchor": "form2-w",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#28324e",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubTitle": true
+          },
+          "title": "NEWSLETTER",
+          "subtitle": "Kostenlos erfahren wann es losgeht!",
+          "form": {
+            "action": "thomas+mobirise@craft-it.co",
+            "alerts": {
+              "success": "Vielen Dank für das Ausfüllen."
+            },
+            "fields": {
+              "email": {
+                "title": "Email",
+                "customTitle": "max@mustermann.com"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SUBSCRIBE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_anchor": "contacts2-t",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C",
+            "googleMap": {
+              "address": "Graz, Neubaugasse 24",
+              "placeId": "ChIJNUuTcpw1bkcRefWyN2qaTKQ",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>Adresse</strong><br>Craft-IT<br>Neubaugasse 24,<br>8020 Graz<br><br><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Kontakt</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br>\nEmail: office@posmodule.com<br>Telefon: +43 660 799 48 97<br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Mehr</strong></p><ul><li><a href=\"agb.html\">Allgemeine Geschäftsbedingungen</a></li><li>POS Module auf Facebook</li><br></ul>"
+        }
+      ]
+    }
+  }
+}
