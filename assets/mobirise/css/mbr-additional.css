@@ -467,11 +467,17 @@ h6,
 }
 #ext_menu-5 .link[aria-expanded="true"],
 #ext_menu-5 .dropdown-item[aria-expanded="true"] {
-  color: #c0a375!important;
+  color: #7c706b!important;
 }
 #header3-b .mbr-section-title,
 #header3-b .mbr-section-subtitle {
   text-align: center;
+}
+#social-buttons1-9 .mbr-section-title {
+  color: #ffffff;
+}
+#form1-1b .form-control-label {
+  color: #232323;
 }
 #ext_menu-x .hide-buttons .nav-btn {
   display: none !important;
@@ -556,11 +562,11 @@ h6,
   color: #ffffff;
 }
 #ext_menu-g .link {
-  font-size: 0.75rem;
+  font-size: 1.05rem;
 }
 #ext_menu-g .dropdown-item,
 #ext_menu-g .nav-dropdown-sm .link {
-  font-size: 0.812rem;
+  font-size: 1.137rem;
 }
 #ext_menu-g .link:hover,
 #ext_menu-g .dropdown-item:hover,
@@ -597,7 +603,7 @@ h6,
 }
 #ext_menu-g .link[aria-expanded="true"],
 #ext_menu-g .dropdown-item[aria-expanded="true"] {
-  color: #c0a375!important;
+  color: #7c706b!important;
 }
 #msg-box8-n .mbr-section-title,
 #msg-box8-n p {
@@ -648,11 +654,11 @@ h6,
   color: #ffffff;
 }
 #ext_menu-o .link {
-  font-size: 0.75rem;
+  font-size: 1.05rem;
 }
 #ext_menu-o .dropdown-item,
 #ext_menu-o .nav-dropdown-sm .link {
-  font-size: 0.812rem;
+  font-size: 1.137rem;
 }
 #ext_menu-o .link:hover,
 #ext_menu-o .dropdown-item:hover,
@@ -689,11 +695,14 @@ h6,
 }
 #ext_menu-o .link[aria-expanded="true"],
 #ext_menu-o .dropdown-item[aria-expanded="true"] {
-  color: #c0a375!important;
+  color: #7c706b!important;
 }
 #msg-box8-q .mbr-section-title,
 #msg-box8-q p {
   color: #fff;
+}
+#form1-1c .form-control-label {
+  color: #232323;
 }
 #ext_menu-s .hide-buttons .nav-btn {
   display: none !important;
@@ -713,11 +722,11 @@ h6,
   color: #ffffff;
 }
 #ext_menu-s .link {
-  font-size: 0.75rem;
+  font-size: 1.05rem;
 }
 #ext_menu-s .dropdown-item,
 #ext_menu-s .nav-dropdown-sm .link {
-  font-size: 0.812rem;
+  font-size: 1.137rem;
 }
 #ext_menu-s .link:hover,
 #ext_menu-s .dropdown-item:hover,
@@ -754,7 +763,7 @@ h6,
 }
 #ext_menu-s .link[aria-expanded="true"],
 #ext_menu-s .dropdown-item[aria-expanded="true"] {
-  color: #c0a375!important;
+  color: #7c706b!important;
 }
 #msg-box8-u .mbr-section-title,
 #msg-box8-u p {
