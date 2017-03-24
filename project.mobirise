@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "agb.html",
+    "currentPage": "index.html",
     "name": "PosModule.com",
     "theme": {
       "name": "mobirise3",
@@ -12,9 +12,9 @@
         "infoColor": "#7e9b9f",
         "warningColor": "#f3c649",
         "dangerColor": "#f28281",
-        "titleFont": "Montserrat",
+        "titleFont": "Merriweather",
         "subtitleFont": "Lora",
-        "textFont": "Raleway",
+        "textFont": "Noto Sans",
         "isRoundedButtons": false,
         "isAnimatedOnScroll": false,
         "isScrollToTopButton": true,
@@ -60,10 +60,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "1.05rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "1.137rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
