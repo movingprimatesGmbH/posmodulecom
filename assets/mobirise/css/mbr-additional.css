@@ -635,6 +635,9 @@ h6,
   background-color: #f2f2f2;
   border-color: #f2f2f2;
 }
+#form1-19 .form-control-label {
+  color: #232323;
+}
 #ext_menu-o .hide-buttons .nav-btn {
   display: none !important;
 }

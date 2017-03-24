@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "team.html",
+    "currentPage": "preise.html",
     "name": "PosModule.com",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 43,
+    "uniqCompNum": 46,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": ""
@@ -734,7 +734,7 @@
           "subtitle": "Für POS Module",
           "label1": "HOT!",
           "title1": "Einrichtung",
-          "subtitle1": "Einmalige Installation und Einrichtung. Beantragung der Zugangsdaten von A-Trust und Bereitstellung der Zertifikate für Finanz.Online.",
+          "subtitle1": "Einmalige Installation und Einrichtung. Dies bedeuetet: Beantragung der Zugangsdaten von A-Trust und Bereitstellung der Zertifikate für Finanz.Online.",
           "currency1": "€",
           "price1": "49",
           "period1": "",
@@ -903,6 +903,63 @@
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-19",
+          "_params": {
+            "labelsColor": "#232323",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubTitle": true
+          },
+          "title": "Noch Fragen?",
+          "subtitle": "Kontaktieren Sie uns gleich!",
+          "form": {
+            "action": "thomas+mobirise@craft-it.co",
+            "alerts": {
+              "success": "Danke, wir melden uns in Kürze!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Telefon"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Nachricht"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Kontaktformular absenden</a>",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          }
         },
         {
           "_tags": [
