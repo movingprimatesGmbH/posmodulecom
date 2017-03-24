@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "faq.html",
+    "currentPage": "index.html",
     "name": "PosModule.com",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 49,
+    "uniqCompNum": 50,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": ""
@@ -344,6 +344,11 @@
             "Theme"
           ],
           "_name": "social-buttons1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "social-buttons1-9",
           "_params": {
             "paddingTop": 3,
@@ -351,7 +356,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#90a878",
+            "bgColor": "#a38f84",
             "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
@@ -362,12 +367,7 @@
             "vkontakte": false,
             "odnoklassniki": false
           },
-          "text": "TEILE UNS MIT DEINEN FREUNDEN",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#ffffff"
-            }
-          }
+          "text": "TEILE UNS MIT DEINEN FREUNDEN"
         },
         {
           "_tags": [
@@ -376,7 +376,7 @@
           "_name": "form1",
           "_styles": {
             ".form-control-label": {
-              "color": "#232323"
+              "color": "#000000"
             }
           },
           "_anchor": "form1-1b",
@@ -964,6 +964,11 @@
             "Theme"
           ],
           "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          },
           "_anchor": "form1-19",
           "_params": {
             "labelsColor": "#232323",
@@ -1009,12 +1014,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Kontaktformular absenden</a>",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#232323"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Kontaktformular absenden</a>"
         },
         {
           "_tags": [
