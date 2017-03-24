@@ -6,7 +6,7 @@
       "name": "mobirise3",
       "title": "Mobirise 3",
       "styling": {
-        "primaryColor": "#c0a375",
+        "primaryColor": "#7c706b",
         "secondaryColor": "#bfcecb",
         "successColor": "#90a878",
         "infoColor": "#7e9b9f",
@@ -149,7 +149,7 @@
             "showButtons": true
           },
           "title": "POS Module",
-          "text": "Das Shopify-Addon für die österreichische Registrierkassensicherheitsverordnung vom 1. April 2017",
+          "text": "Das Shopify-Addon für die <br>österreichische Registrierkassensicherheitsverordnung <br>vom 1. April 2017",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"comingsoon.html\" data-toolbar=\"-mbrBtnMove\">Zum Addon</a> "
         },
         {
@@ -215,7 +215,7 @@
           "title1": "1. Shopify POS",
           "subtitle1": "Shopify ist die Grundlage",
           "caption1": "Um das POS Module nutzen zu können brauchen Sie ein funktionierendes und aktiviertes Shopify POS App, welches am iPad läuft.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://shopify.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Shopify Website</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://shopify.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ZU SHOPIFY</a>",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/printer-1910679-600x312.jpg",
@@ -231,7 +231,7 @@
           "title2": "<br>2. AirPrint",
           "subtitle2": "Ein AirPrint fähier Drucker",
           "caption2": "Um Rechnungen ausdrucken zu können setzt POS Module auf den Shopify \"OrderPrinter\". Dieses App benötigt einen AirPrint fähigen Drucker. <br><br>Ein zusätzlicher Bon-Drucker wird <b>nicht</b> mehr benötigt, ist aber möglich.",
-          "button2": "<a data-app-btn=\"true\" href=\"https://geizhals.at/?cat=prl&amp;xf=721_AirPrint\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Liste der AirPrint Drucker</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://geizhals.at/?cat=prl&amp;xf=721_AirPrint\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">AIRPRINT DRUCKER</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/tom1808-600x367.png",
@@ -247,7 +247,7 @@
           "title3": "3. POS Module",
           "subtitle3": "Installieren und Konfigurieren",
           "caption3": "Um Rechnungen in Österreich gemäß der RKSV vom 1. April mit Shopify POS ausdrucken zu können, muss das POS Module Plugin pro Standort installiert werden.<br><br>Nach der installation werden Sie aufgefordert die nötigen Daten einzugeben. Danach kümmern wir uns um die Bereitstellung der Kassa. Sie müssen nur mehr im Finanz.Online die Kassennummer eintragen.",
-          "button3": "<a data-app-btn=\"true\" href=\"comingsoon.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">App im Shopify Appstore</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"comingsoon.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">ZUM ADDON</a>",
           "media4": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/paid-invoice-600x400.jpg",
@@ -337,7 +337,7 @@
           },
           "title": "Das ist Shopify POS",
           "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://shopify.com\" data-toolbar=\"-mbrBtnMove\">Zu Shopify Wechseln</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://shopify.com\" data-toolbar=\"-mbrBtnMove\">MEHR INFORMATIONEN</a>"
         },
         {
           "_tags": [
