@@ -1641,7 +1641,7 @@
               "authorBio": "Management, PR, Marketing"
             },
             {
-              "text": "<p>Martin studiert derzeit am MIT in Bosten und hat Telematik in Graz studiert. Mit perfekten Englischkenntnissen und langjähriger Erfahrung im Management ist er die optimale Schnittstelle zwischen POS Module, Shopify und Kunden.</p>",
+              "text": "<p>Martin studiert derzeit am MIT in Boston und hat Telematik in Graz studiert. Mit perfekten Englischkenntnissen und langjähriger Erfahrung im Management ist er die optimale Schnittstelle zwischen POS Module, Shopify und Kunden.</p>",
               "media": {
                 "image": {
                   "src": "@PROJECT_PATH@/assets/images/11836-1183565-th1-600x600.jpg",
@@ -1663,6 +1663,10 @@
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
+            "count": "2",
+            "showImages": true,
+            "showName": true,
+            "showBio": true,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
@@ -1672,11 +1676,7 @@
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
             "showTitle": false,
-            "showSubtitle": false,
-            "count": "2",
-            "showImages": true,
-            "showName": true,
-            "showBio": true
+            "showSubtitle": false
           },
           "title": "WHAT OUR FANTASTIC USERS SAY",
           "subtitle": "Shape your future web project with sharp design and refine coded functions."
