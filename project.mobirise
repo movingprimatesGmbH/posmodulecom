@@ -814,7 +814,7 @@
           "price1": "49",
           "period1": "",
           "description1": "Einmalige Gebühr pro Kassa und Standort.<br>",
-          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><span style=\"font-size: 0.875rem; line-height: 3.125rem;\">Zertifikatbeantragung A-Trust</span></li><li class=\"list-group-item\">Bereitstellung der Daten für FinanzOnline</li><li class=\"list-group-item\">Ein getrennter Rechnungskreis pro Standort wird benötigt.</li></ul>",
+          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><span style=\"font-size: 0.875rem; line-height: 3.125rem;\">Für die Zertifikatbeantragung bei A-Trust</span></li><li class=\"list-group-item\">Bereitstellung der Daten für FinanzOnline</li><li class=\"list-group-item\">Ein getrennter Rechnungskreis pro Standort</li><li class=\"list-group-item\">Wird direkt über Shopify abgerechnet (daher in USD).</li></ul>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">DEMO</a>",
           "label2": "HOT!",
           "title2": "Kassa",
