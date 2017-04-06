@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "preise.html",
+    "currentPage": "comingsoon.html",
     "name": "PosModule.com",
     "theme": {
       "name": "mobirise3",
@@ -1061,7 +1061,7 @@
             }
           },
           "text1": "<strong>Adresse</strong><br>Craft-IT<br>Neubaugasse 24,<br>8020 Graz<br><br><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Kontakt</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br>\nEmail: office@posmodule.com<br>Telefon: +43 660 799 48 97<br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Mehr</strong></p><ul><li><a href=\"agb.html\">Allgemeine Geschäftsbedingungen</a></li><li>POS Module auf Facebook</li><br></ul>"
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Mehr</strong></p><ul><li><a href=\"agb.html\">Allgemeine Geschäftsbedingungen</a></li><li><a href=\"https://www.facebook.com/Posmodule-298038257280778/\" target=\"_blank\">POS Module auf Facebook</a></li><br></ul>"
         }
       ]
     },
@@ -1287,7 +1287,7 @@
             }
           },
           "text1": "<strong>Adresse</strong><br>Craft-IT<br>Neubaugasse 24,<br>8020 Graz<br><br><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Kontakt</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br>\nEmail: office@posmodule.com<br>Telefon: +43 660 799 48 97<br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Mehr</strong></p><ul><li><a href=\"agb.html\">Allgemeine Geschäftsbedingungen</a></li><li>POS Module auf Facebook</li><br></ul>"
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Mehr</strong></p><ul><li><a href=\"agb.html\">Allgemeine Geschäftsbedingungen</a></li><li><a href=\"https://www.facebook.com/Posmodule-298038257280778/\" target=\"_blank\">POS Module auf Facebook</a></li><br></ul>"
         }
       ]
     },
@@ -1434,7 +1434,7 @@
             "paddingBottom": "4",
             "bgColor": "#fff"
           },
-          "text": "<p>Hunderte Test-Bons, zig Testfälle, von Stornos bis Gutscheincodes, Rabatt auf den gesamten Warenkorb und Teilzahlungen. Wir haben's getestet und sind bereits mit unseren Beta-Kunden gestartet.&nbsp;</p><p><br></p><p>Offizieller geplanter Start. Freitag 7. April 2017.</p><p><br></p><p>Like on Facebook für schnellere Updates: https://www.facebook.com/Posmodule-298038257280778/</p>"
+          "text": "<p>Hunderte Test-Bons, zig Testfälle, von Stornos bis Gutscheincodes, Rabatt auf den gesamten Warenkorb und Teilzahlungen. Wir haben's getestet und sind bereits mit unseren Beta-Kunden gestartet.&nbsp;</p><p><br></p><p>Offizieller geplanter Start. Freitag 7. April 2017.</p><p><br></p><p>Like on Facebook für schnellere Updates: <a href=\"https://www.facebook.com/Posmodule-298038257280778/\" target=\"_blank\">https://www.facebook.com/Posmodule-298038257280778/</a></p>"
         },
         {
           "_styles": {
@@ -1505,7 +1505,7 @@
             }
           },
           "text1": "<strong>Adresse</strong><br>Craft-IT<br>Neubaugasse 24,<br>8020 Graz<br><br><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Kontakt</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br>\nEmail: office@posmodule.com<br>Telefon: +43 660 799 48 97<br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Mehr</strong></p><ul><li><a href=\"agb.html\">Allgemeine Geschäftsbedingungen</a></li><li>POS Module auf Facebook</li><br></ul>"
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Mehr</strong></p><ul><li><a href=\"agb.html\">Allgemeine Geschäftsbedingungen</a></li><li><a href=\"https://www.facebook.com/Posmodule-298038257280778/\" target=\"_blank\">POS Module auf Facebook</a></li><br></ul>"
         }
       ]
     },
