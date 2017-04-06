@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "comingsoon.html",
+    "currentPage": "index.html",
     "name": "PosModule.com",
     "theme": {
       "name": "mobirise3",
@@ -244,7 +244,7 @@
           },
           "title2": "POSModule RKSV Addon",
           "subtitle2": "Einfach dazu installieren",
-          "caption2": "Mit Shopify können Sie Ihren Shop mit Addons und Apps erweitern. Unser App, das \"POS Module RKSV Addon\" erweitert den Shop so, dass nach RKSV signierte Bons und A4 Rechnungen gedruckt werden können.",
+          "caption2": "Mit Shopify können Sie Ihren Shop mit Addons und Apps erweitern. Unser App, das \"POS Module RKSV Addon\" erweitert den Shop so, dass nach RKSV signierte Bons und A4 Rechnungen gedruckt werden können. Auch Email-Rechnungen werden unterstützt.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {
