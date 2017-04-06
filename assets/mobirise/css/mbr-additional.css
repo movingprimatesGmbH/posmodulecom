@@ -473,6 +473,13 @@ h6,
 #header3-b .mbr-section-subtitle {
   text-align: center;
 }
+#features4-1i .card-subtitle {
+  color: #bcbcbc;
+}
+#features4-1i .iconbox {
+  background-color: #f2f2f2;
+  border-color: #f2f2f2;
+}
 #social-buttons1-9 .mbr-section-title {
   color: #ffffff;
 }

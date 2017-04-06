@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "team.html",
+    "currentPage": "comingsoon.html",
     "name": "PosModule.com",
     "theme": {
       "name": "mobirise3",
@@ -22,11 +22,12 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 54,
+    "uniqCompNum": 55,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
-    "path": "@PROJECT_PATH@"
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -174,12 +175,22 @@
           "meta": "Mit Shopify POS und POS Module - so einfach geht's!"
         },
         {
+          "_styles": {
+            ".card-subtitle": {
+              "color": "#bcbcbc"
+            },
+            ".iconbox": {
+              "background-color": "#f2f2f2",
+              "border-color": "#f2f2f2"
+            }
+          },
           "_tags": [
             "Theme"
           ],
-          "_name": "features3",
-          "_anchor": "features3-f",
+          "_name": "features4",
+          "_anchor": "features4-1i",
           "_params": {
+            "iconsBgColor": "#f2f2f2",
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
@@ -194,83 +205,88 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "columns": "3",
+            "columns": 3,
             "showImages": true,
             "showTitles": true,
             "showSubtitles": true,
             "ShowTexts": true,
-            "showButtons": true
+            "showButtons": false
           },
           "media1": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-600x400.jpg",
-              "class": "card-img-top",
-              "width": 600,
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "touch",
+              "family": "MobiriseIcons",
               "active": true,
               "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "size": 0,
+              "color": "black",
+              "newWindow": false
             }
           },
-          "title1": "1. Shopify POS",
-          "subtitle1": "Shopify ist die Grundlage",
-          "caption1": "Um das POS Module nutzen zu können brauchen Sie ein funktionierendes und aktiviertes Shopify POS App, welches am iPad läuft.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://shopify.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ZU SHOPIFY</a>",
+          "title1": "Shopify POS",
+          "subtitle1": "Mit Bon-Drucker, iPad und Kassenlade",
+          "caption1": "Um mit dem RKSV Addon signierte Rechnungen drucken zu können benötigen Sie eine Shopify POS installation. Shopify empfiehlt den Star TSP650II Bluetooth Bon Drucker und die dazugehörige Kassenlade. Sie können aber auch A4 Rechnungen drucken.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/printer-1910679-600x312.jpg",
-              "class": "card-img-top",
-              "width": 600,
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "shopping-bag",
+              "family": "MobiriseIcons",
               "active": true,
               "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "size": 0,
+              "color": "black",
+              "newWindow": false
             }
           },
-          "title2": "<br>2. AirPrint",
-          "subtitle2": "Ein AirPrint fähier Drucker",
-          "caption2": "Um Rechnungen ausdrucken zu können setzt POS Module auf den Shopify \"OrderPrinter\". Dieses App benötigt einen AirPrint fähigen Drucker. <br><br>Ein zusätzlicher Bon-Drucker wird <b>nicht</b> mehr benötigt, ist aber möglich.",
-          "button2": "<a data-app-btn=\"true\" href=\"https://geizhals.at/?cat=prl&amp;xf=721_AirPrint\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">AIRPRINT DRUCKER</a>",
+          "title2": "POSModule RKSV Addon",
+          "subtitle2": "Einfach dazu installieren",
+          "caption2": "Mit Shopify können Sie Ihren Shop mit Addons und Apps erweitern. Unser App, das \"POS Module RKSV Addon\" erweitert den Shop so, dass nach RKSV signierte Bons und A4 Rechnungen gedruckt werden können.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/tom1808-600x367.png",
-              "class": "card-img-top",
-              "width": 600,
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "smile-face",
+              "family": "MobiriseIcons",
               "active": true,
               "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "size": 0,
+              "color": "black",
+              "newWindow": false
             }
           },
-          "title3": "3. POS Module",
-          "subtitle3": "Installieren und Konfigurieren",
-          "caption3": "Um Rechnungen in Österreich gemäß der RKSV vom 1. April mit Shopify POS ausdrucken zu können, muss das POS Module Plugin pro Standort installiert werden.<br><br>Nach der installation werden Sie aufgefordert die nötigen Daten einzugeben. Danach kümmern wir uns um die Bereitstellung der Kassa. Sie müssen nur mehr im Finanz.Online die Kassennummer eintragen.",
-          "button3": "<a data-app-btn=\"true\" href=\"comingsoon.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">ZUM ADDON</a>",
+          "title3": "FinanzOnline",
+          "subtitle3": "Zugang beantragen und Kassa eintragen",
+          "caption3": "Mit POS Module RKSV Addon erhalten Sie pro Standort eine eigene Registrierkassa. Dies sind s.g. Rechnungskreise. Die Kassa müssen Sie dann in Ihr FinanzOnline selbst eintragen (oder den Steuerberater beauftragen dies für Sie zu tun). Damit sind Sie RKSV sicher unterwegs.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/paid-invoice-600x400.jpg",
-              "class": "card-img-top",
-              "width": 600,
+            "iconFont": {
               "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "black",
+              "family": "et-line"
             }
           },
-          "title4": "4. Unlimitierte Rechnungen",
-          "subtitle4": "Mit eleganten Templates in A4",
-          "caption4": "Mit Shopify ist es nur möglich kleine Bons zu drucken, Mit dem Addon \"OrderPrinter\" können Rechnungen elegant gestaltet werden.&nbsp;",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "briefcase",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "black",
+              "family": "et-line"
             }
           },
           "title5": "Trendy Website Blocks",
@@ -278,11 +294,14 @@
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media6": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "black",
+              "family": "et-line"
             }
           },
           "title6": "Host Anywhere",
@@ -1415,7 +1434,7 @@
             "paddingBottom": "4",
             "bgColor": "#fff"
           },
-          "text": "<p>Wir arbeiten derzeit mit Volldampf an den letzten Details. Natürlich können wir keine Software veröffentlichen die nicht getestet wurde und funktioniert. </p><p><br></p><p>Voraussichtlicher Termin zur Fertigstellung: Woche 27.März bis 1.April..</p>"
+          "text": "<p>Hunderte Test-Bons, zig Testfälle, von Stornos bis Gutscheincodes, Rabatt auf den gesamten Warenkorb und Teilzahlungen. Wir haben's getestet und sind bereits mit unseren Beta-Kunden gestartet.&nbsp;</p><p><br></p><p>Offizieller geplanter Start. Freitag 7. April 2017.</p><p><br></p><p>Like on Facebook für schnellere Updates: https://www.facebook.com/Posmodule-298038257280778/</p>"
         },
         {
           "_styles": {
@@ -1705,18 +1724,18 @@
             "Theme"
           ],
           "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          },
           "_anchor": "content1-1h",
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "3",
             "bgColor": "#ffffff"
           },
-          "text": "<p><b>Phillip Stecher</b></p><p>Phillip programmiert Software für große Hotelketten. </p><p>Er schreibt die Schnittstelle zur Registrierkassenverordnung für das POS Module.&nbsp;</p>",
-          "_styles": {
-            "P": {
-              "text-align": "center"
-            }
-          }
+          "text": "<p><b>Phillip Stecher</b></p><p>Phillip programmiert Software für große Hotelketten. </p><p>Er schreibt die Schnittstelle zur Registrierkassenverordnung für das POS Module.&nbsp;</p>"
         },
         {
           "_tags": [
