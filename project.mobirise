@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "agb.html",
+    "currentPage": "preise.html",
     "name": "PosModule.com",
     "theme": {
       "name": "mobirise3",
@@ -802,7 +802,7 @@
             "firstType": "",
             "showButtons": false,
             "secondType": "",
-            "thirdType": "hidden",
+            "thirdType": "",
             "fourthType": "hidden"
           },
           "title": "PREISE",
@@ -823,16 +823,16 @@
           "price2": "15",
           "period2": "/Mo.",
           "description2": "pro Standort",
-          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><span style=\"font-size: 0.875rem; line-height: 3.125rem;\">Preis gilt für eine Kassa</span></li><li class=\"list-group-item\"><span style=\"font-size: 0.875rem; line-height: 3.125rem;\">Unlimitiert erweiterbar</span><br></li><li class=\"list-group-item\">Einfach selbst bestimmen welche Kassa zu welchem Standort gehört</li><li class=\"list-group-item\">Unlimitierte Anzahl an iPads</li></ul>",
+          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><span style=\"font-size: 0.875rem; line-height: 3.125rem;\">Preis gilt für eine Kassa</span></li><li class=\"list-group-item\"><span style=\"font-size: 0.875rem; line-height: 3.125rem;\">Unlimitiert erweiterbar, unlimitierte Anzahl an iPads</span><br></li><li class=\"list-group-item\">Einfach selbst bestimmen welche Kassa zu welchem Standort gehört</li><li class=\"list-group-item\">Für kleine Volumen an Bons pro Tag</li></ul>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>",
           "label3": "HOT!",
-          "title3": "PREMIUM",
-          "subtitle3": "Description",
+          "title3": "High-Volume",
+          "subtitle3": "Für Unternehmer mit <br>großem Bon-Aufkommen, ab:",
           "currency3": "$",
-          "price3": "0",
+          "price3": "499",
           "period3": "/mo.",
-          "description3": "More details",
-          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
+          "description3": "pro Standort",
+          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><span style=\"font-size: 0.875rem; line-height: 3.125rem;\">Für Unternehmer mit großem Kundenaufkommen pro Tag.</span><br></li><li class=\"list-group-item\">Bitte kontaktieren Sie unseren Support.</li></ul>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>",
           "label4": "HOT!",
           "title4": "ULTIMATE",
@@ -875,7 +875,7 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "columns": 3,
+            "columns": "4",
             "showImages": true,
             "showTitles": true,
             "showSubtitles": true,
@@ -935,18 +935,20 @@
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "linegraph",
-              "link": "https://mobirise.com",
+              "linkInNewWindow": false,
+              "name": "protect",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "",
               "size": 0,
               "color": "black",
-              "family": "et-line"
+              "newWindow": false
             }
           },
-          "title4": "Unlimited Sites",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title4": "Kassen von A-Trust",
+          "subtitle4": "Posmodule benutzt A-Trust Lizenzen",
+          "caption4": "Perfekt für Shops mit wenig Bons! Posmodule stellt Kassen ausschließlich über A-Trust bereit und ist für kleine Volumen an Bons pro Kassa pro Tag ausgelegt. Wenn Sie im Schnitt mehr als 20 Bons/Tag drucken kontaktieren Sie bitte unseren Support.",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "iconFont": {
