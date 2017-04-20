@@ -169,7 +169,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://youtu.be/ZjBLZCskpwA",
+              "src": "https://youtu.be/ZjBLZCskpwA?cc_lang_pref=de&cc_load_policy=1",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
