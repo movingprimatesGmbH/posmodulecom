@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "faq.html",
+    "currentPage": "index.html",
     "name": "PosModule.com",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 58,
+    "uniqCompNum": 60,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
@@ -128,31 +128,61 @@
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-f\">SO GEHT'S</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"preise.html\">&nbsp;PREISE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"faq.html\">FAQ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"team.html\">TEAM</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"http://apps.shopify.com/posmodule\">BESTELLEN</a></li>"
         },
         {
-          "_name": "header1",
-          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
-          "_anchor": "header1-1",
+          "_inherit": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#28262b"
+            },
+            ".mbr-section-text": {
+              "color": "#565656"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header6",
+          "_anchor": "header6-1n",
           "_params": {
+            "imageSize": "70",
             "parallax": true,
             "bgImageRadio": true,
-            "showArrow": true,
             "bgImage": "@PROJECT_PATH@/assets/images/carli-jeen-2000x1333.jpg",
-            "bgColor": "#a07e49",
+            "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#000",
-            "contentAlign": "center",
+            "overlay": true,
+            "overlayOpacity": "0.8",
+            "overlayColor": "#ffffff",
+            "inverse": true,
             "showTitle": true,
             "showText": true,
-            "showButtons": true
+            "showButtons": true,
+            "showArrow": true
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://youtu.be/ZjBLZCskpwA",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
           },
           "title": "POS Module",
           "text": "Das Shopify-Addon für die <br>österreichische Registrierkassensicherheitsverordnung <br>vom 1. April 2017",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://apps.shopify.com/posmodule\" data-toolbar=\"-mbrBtnMove\">Zum Addon</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"http://apps.shopify.com/posmodule\" data-toolbar=\"-mbrBtnMove\">Zum Addon</a>"
         },
         {
           "_styles": {
@@ -358,56 +388,6 @@
           "title": "Das ist Shopify POS",
           "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://shopify.com\" data-toolbar=\"-mbrBtnMove\">MEHR INFORMATIONEN</a>"
-        },
-        {
-          "_inherit": "msg-box5",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box4",
-          "_anchor": "msg-box4-1j",
-          "_params": {
-            "imageSize": 50,
-            "paddingTop": "3",
-            "paddingBottom": "3",
-            "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#F2F2F2",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#fff",
-            "inverse": false,
-            "showTitle": true,
-            "showText": false,
-            "showButtons": true
-          },
-          "media": {
-            "image": {
-              "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
-            },
-            "video": {
-              "active": true,
-              "src": "https://www.youtube.com/embed/j0Yxigi3z_A",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box4",
-              "link": "",
-              "size": 250
-            }
-          },
-          "title": "Und das ist POSModule RKSV Addon",
-          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://apps.shopify.com/posmodule\" data-toolbar=\"-mbrBtnMove\">Bestellen</a>"
         },
         {
           "_tags": [
