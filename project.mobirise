@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "preise.html",
     "name": "PosModule.com",
     "theme": {
       "name": "mobirise3",
@@ -501,7 +501,7 @@
             }
           },
           "text1": "<strong>Adresse</strong><br>Craft-IT<br>Neubaugasse 24,<br>8020 Graz<br><br><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Kontakt</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br>\nEmail: office@posmodule.com<br>Telefon: +43 660 799 48 97<br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Mehr</strong></p><ul><li><a href=\"agb.html\">Allgemeine Geschäftsbedingungen</a></li><li><a href=\"https://www.facebook.com/Posmodule-298038257280778/\" target=\"_blank\">POS Module auf Facebook</a></li><li>Addon bei Shopify</li><br></ul>"
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Mehr</strong></p><ul><li><a href=\"agb.html\">Allgemeine Geschäftsbedingungen</a></li><li><a href=\"https://www.facebook.com/Posmodule-298038257280778/\" target=\"_blank\">POS Module auf Facebook</a></li><li><a href=\"http://apps.shopify.com/posmodule\" target=\"_blank\">Addon bei Shopify</a></li><br></ul>"
         }
       ]
     },
@@ -841,10 +841,10 @@
           "title1": "Einrichtung",
           "subtitle1": "Beantragung der Zugangsdaten von A-Trust und <br>Bereitstellung der Zertifikate für Finanz.Online.",
           "currency1": "$",
-          "price1": "0",
+          "price1": "19",
           "period1": "",
           "description1": "Einmalige Gebühr pro Kassa.<br>",
-          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><span style=\"font-size: 0.875rem; line-height: 3.125rem;\"><b>ENTFÄLLT FÜR ERSTKUNDEN BIS 17.APRIL! Danach €29.00</b></span></li><li class=\"list-group-item\"><span style=\"font-size: 0.875rem; line-height: 3.125rem;\">Für die Zertifikatbeantragung bei A-Trust</span></li><li class=\"list-group-item\">Bereitstellung der Daten für FinanzOnline</li><li class=\"list-group-item\">Ein getrennter Rechnungskreis pro Standort</li><li class=\"list-group-item\">Wird direkt über Shopify abgerechnet (daher in USD).</li></ul>",
+          "list1": "<ul class=\"list-group list-group-flush\"><span style=\"font-size: 0.875rem; line-height: 3.125rem;\">Für die Zertifikatbeantragung bei A-Trust</span><br><li class=\"list-group-item\">Bereitstellung der Daten für FinanzOnline</li><li class=\"list-group-item\">Ein getrennter Rechnungskreis pro Standort</li><li class=\"list-group-item\">Wird direkt über Shopify abgerechnet (daher in USD).</li></ul>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">DEMO</a>",
           "label2": "HOT!",
           "title2": "Kassa",
@@ -1093,7 +1093,7 @@
             }
           },
           "text1": "<strong>Adresse</strong><br>Craft-IT<br>Neubaugasse 24,<br>8020 Graz<br><br><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Kontakt</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br>\nEmail: office@posmodule.com<br>Telefon: +43 660 799 48 97<br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Mehr</strong></p><ul><li><a href=\"agb.html\">Allgemeine Geschäftsbedingungen</a></li><li><a href=\"https://www.facebook.com/Posmodule-298038257280778/\" target=\"_blank\">POS Module auf Facebook</a></li><li>Addon bei Shopify</li><br></ul>"
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Mehr</strong></p><ul><li><a href=\"agb.html\">Allgemeine Geschäftsbedingungen</a></li><li><a href=\"https://www.facebook.com/Posmodule-298038257280778/\" target=\"_blank\">POS Module auf Facebook</a></li><li><a href=\"http://apps.shopify.com/posmodule\" target=\"_blank\">Addon bei Shopify</a></li><br></ul>"
         }
       ]
     },
