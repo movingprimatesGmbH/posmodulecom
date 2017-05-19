@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "preise.html",
+    "currentPage": "index.html",
     "name": "PosModule.com",
     "theme": {
       "name": "mobirise3",
@@ -169,7 +169,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://youtu.be/ZjBLZCskpwA?hl=de&cc_lang_pref=de&cc_load_policy=1",
+              "src": "https://youtu.be/m5ZrdgHPUH8",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
