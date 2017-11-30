@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "preise.html",
+    "currentPage": "index.html",
     "name": "PosModule.com",
     "theme": {
       "name": "mobirise3",
@@ -348,7 +348,7 @@
           "_anchor": "msg-box4-c",
           "_params": {
             "showTitle": true,
-            "showText": false,
+            "showText": true,
             "showButtons": true,
             "inverse": true,
             "imageSize": "50",
@@ -385,9 +385,9 @@
               "size": 250
             }
           },
-          "title": "Das ist Shopify POS",
-          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://shopify.com\" data-toolbar=\"-mbrBtnMove\">MEHR INFORMATIONEN</a>"
+          "title": "Das ist Shopify POS<br>",
+          "text": "Egal ob Sie im eigenen Geschäft, Online, über Social Media oder aus dem Kofferraum heraus verkaufen. Shopify ist für Sie da! <br><br>Und PosModule stellt sicher, dass das alles RKSV-konform ist.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.shopify.com/?ref=craft-it\" data-toolbar=\"-mbrBtnMove\">MEHR INFORMATIONEN</a>"
         },
         {
           "_tags": [
