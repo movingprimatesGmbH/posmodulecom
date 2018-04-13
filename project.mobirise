@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "team.html",
+    "currentPage": "index.html",
     "name": "PosModule.com",
     "theme": {
       "name": "mobirise3",
@@ -129,14 +129,6 @@
         },
         {
           "_inherit": "header2",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#28262b"
-            },
-            ".mbr-section-text": {
-              "color": "#565656"
-            }
-          },
           "_tags": [
             "Theme"
           ],
@@ -182,7 +174,12 @@
           },
           "title": "POS Module",
           "text": "Das Shopify-Addon für die <br>österreichische Registrierkassensicherheitsverordnung <br>vom 1. April 2017",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"http://apps.shopify.com/posmodule\" data-toolbar=\"-mbrBtnMove\">Zum Addon</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"http://apps.shopify.com/posmodule\" data-toolbar=\"-mbrBtnMove\">Zum Addon</a>",
+          "_customHTML": "<section class=\"mbr-section mbr-section-hero mbr-section-full header2 mbr-parallax-background mbr-after-navbar\" data-rv-view=\"2\" style=\"background-image: url(&quot;@PROJECT_PATH@/assets/images/carli-jeen-2000x1333.jpg&quot;);\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 0.8; background-color: rgb(255, 255, 255);\">\n    </div>\n\n    <div class=\"mbr-table mbr-table-full\">\n        <div class=\"mbr-table-cell\">\n\n            <div class=\"container\">\n                <div class=\"mbr-section row\">\n                    <div class=\"mbr-table-md-up\">\n                        \n                        <div class=\"mbr-table-cell mbr-right-padding-md-up mbr-valign-top col-md-7 image-size\" style=\"width: 70%;\">\n                            <div class=\"mbr-figure\"><iframe class=\"mbr-embedded-video\" src=\"https://www.youtube-nocookie.com/embed/m5ZrdgHPUH8?rel=0&amp;amp;showinfo=0&amp;autoplay=0&amp;loop=0\" width=\"1280\" height=\"720\" frameborder=\"0\" allowfullscreen=\"\"></iframe></div>\n                        </div>\n                        <div class=\"mbr-table-cell col-md-5 text-xs-center text-md-left content-size\">\n\n                            <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"86\">POS Module</h3>\n\n                            <div class=\"mbr-section-text\">\n                                <p class=\"mbr-editable-content\" code-editable-id=\"87\">Das Shopify-Addon für die <br>österreichische Registrierkassensicherheitsverordnung <br>vom 1. April 2017</p>\n                            </div>\n\n                            <div class=\"mbr-section-btn\"><a class=\"btn btn-lg btn-black-outline btn-black mbr-editable-button\" href=\"http://apps.shopify.com/posmodule\" code-editable-id=\"88\">Zum Addon</a></div>\n\n                        </div>\n\n                        \n                        \n\n                    </div>\n                </div>\n            </div>\n\n        </div>\n    </div>\n\n    <div class=\"mbr-arrow mbr-arrow-floating hidden-sm-down\" aria-hidden=\"true\"><a href=\"#header3-b\"><i class=\"mbr-arrow-icon\"></i></a></div>\n\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": ".mbr-section-title {\n  color: #28262b;\n}\n.mbr-section-text {\n  color: #565656;\n}\n",
+          "_customTemplate": true
         },
         {
           "_styles": {
