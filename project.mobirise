@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "preise.html",
+    "currentPage": "team.html",
     "name": "PosModule.com",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 60,
+    "uniqCompNum": 62,
     "versionPublish": "4.5.0",
     "favicon": "",
     "noImageResize": "",
@@ -169,7 +169,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://youtu.be/m5ZrdgHPUH8",
+              "src": "https://www.youtube-nocookie.com/embed/m5ZrdgHPUH8",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
@@ -477,11 +477,6 @@
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Kontaktformular absenden</a>"
         },
         {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts2",
-          "_anchor": "contacts2-6",
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
@@ -492,16 +487,34 @@
             "bgColor": "#2e2e2e",
             "overlay": true,
             "overlayColor": "#3C3C3C",
-            "overlayOpacity": 0.8,
-            "googleMap": {
-              "address": "Graz, Neubaugasse 24",
-              "placeId": "ChIJNUuTcpw1bkcRefWyN2qaTKQ",
-              "state": "ok",
-              "stateDetails": ""
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/icon-square-128x128.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
+              "name": "info",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": 0
             }
           },
-          "text1": "<strong>Adresse</strong><br>Craft-IT<br>Neubaugasse 24,<br>8020 Graz<br><br><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Kontakt</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br>\nEmail: office@posmodule.com<br>Telefon: +43 660 799 48 97<br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Mehr</strong></p><ul><li><a href=\"agb.html\">Allgemeine Geschäftsbedingungen</a></li><li><a href=\"https://www.facebook.com/Posmodule-298038257280778/\" target=\"_blank\">POS Module auf Facebook</a></li><li><a href=\"http://apps.shopify.com/posmodule\" target=\"_blank\">Addon bei Shopify</a></li><br></ul>"
+          "text1": "<strong>Adresse</strong><br>Craft-IT<br>Neubaugasse 24<br>8020 Graz",
+          "text2": "<strong>Kontakt</strong><br>\nEmail: office@posmodule.com<br>\nTelefon: +43 660 799 48 97<br><br>",
+          "text3": "<strong>Mehr</strong><br>\n<a class=\"text-primary\" href=\"agb.html\">AGB</a><br><a href=\"https://www.facebook.com/Posmodule-298038257280778/\" target=\"_blank\">Posmodule auf Facebook</a><br><a href=\"http://apps.shopify.com/posmodule\">Addon bei Shopify</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-1o"
         }
       ]
     },
@@ -526,7 +539,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2016 Mobirise."
+          "text": "Copyright (c) 2016 Posmodule."
         },
         {
           "_inherit": "menu",
@@ -860,7 +873,7 @@
           "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>",
           "_customCSS": ".mbr-plan-header, .mbr-plan-body {\n  background-color: #f4f4f4;\n}\nul, .mbr-plan-title, .mbr-price-value, .mbr-price-figure, .mbr-price-term {\n  color: #28262b;\n}\n.mbr-plan {\n  border-color: #e8e8e8;\n}\n.mbr-plan .list-group-item {\n  border-color: #cfcfcf;\n}\n.mbr-price-figure {\n  font-size: 60px;\n}\n",
-          "_customHTML": "<section class=\"mbr-section\" data-rv-view=\"40\" style=\"background-color: rgb(255, 255, 255); padding-top: 40px; padding-bottom: 120px;\">\n\n    \n\n    <div class=\"mbr-section mbr-section__container mbr-section__container--middle\">\n      <div class=\"container\">\n          <div class=\"row\">\n              <div class=\"col-xs-12 text-xs-center\">\n                  <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"14\">PREISE</h3>\n                  \n              </div>\n          </div>\n      </div>\n    </div>\n\n    <div class=\"mbr-section mbr-section-nopadding mbr-price-table\">\n      <div class=\"row\">\n            <div class=\"col-xs-12 col-md-6 col-xl-4\">\n                <div class=\"mbr-plan card text-xs-center\">\n                    <div class=\"mbr-plan-header card-block\">\n                      \n                      <div class=\"card-title\">\n                        <h3 class=\"mbr-plan-title mbr-editable-content\" code-editable-id=\"15\">Einrichtung</h3>\n                        <small class=\"mbr-plan-subtitle mbr-editable-content\" code-editable-id=\"16\">Beantragung der Zugangsdaten von A-Trust und <br>Bereitstellung der Zertifikate für Finanz.Online.</small>\n                      </div>\n                      <div class=\"card-text\">\n                          <div class=\"mbr-price\">\n                            <span class=\"mbr-price-value mbr-editable-content\" code-editable-id=\"17\">$</span>\n                            <span class=\"mbr-price-figure mbr-editable-content\" code-editable-id=\"18\">99</span><small class=\"mbr-price-term mbr-editable-content\" code-editable-id=\"19\"></small>\n                          </div>\n                          <small class=\"mbr-plan-price-desc mbr-editable-content\" code-editable-id=\"20\">Einmalige Gebühr pro Kassa.<br></small>\n                      </div>\n                    </div>\n                    <div class=\"mbr-plan-body card-block\">\n                      <div class=\"mbr-plan-list mbr-editable-content\" code-editable-id=\"21\"><ul class=\"list-group list-group-flush\"><span style=\"font-size: 0.875rem; line-height: 3.125rem;\">Für die Zertifikatbeantragung bei A-Trust</span><br><li class=\"list-group-item\">Bereitstellung der Daten für FinanzOnline</li><li class=\"list-group-item\">Zertifikat gültig für 5 Jahre</li><li class=\"list-group-item\">Ein getrennter Rechnungskreis pro Standort</li><li class=\"list-group-item\">Wird direkt über Shopify abgerechnet (daher in USD).</li></ul></div>\n                      \n                    </div>\n                </div>\n            </div>\n            <div class=\"col-xs-12 col-md-6 col-xl-4\">\n                <div class=\"mbr-plan card text-xs-center\">\n                    <div class=\"mbr-plan-header card-block\">\n                      \n                      <div class=\"card-title\">\n                        <h3 class=\"mbr-plan-title mbr-editable-content\" code-editable-id=\"22\">Basic Kassa</h3>\n                        <small class=\"mbr-plan-subtitle mbr-editable-content\" code-editable-id=\"23\">Dies ist Ihr Rechnungskreis. <br>Eine Kassa wird pro Standort benötigt. <br></small>\n                      </div>\n                      <div class=\"card-text\">\n                          <div class=\"mbr-price\">\n                            <span class=\"mbr-price-value mbr-editable-content\" code-editable-id=\"24\">$</span>\n                            <span class=\"mbr-price-figure mbr-editable-content\" code-editable-id=\"25\">15</span><small class=\"mbr-price-term mbr-editable-content\" code-editable-id=\"26\">/Mo.</small>\n                          </div>\n                          <small class=\"mbr-plan-price-desc mbr-editable-content\" code-editable-id=\"27\">pro Standort</small>\n                      </div>\n                    </div>\n                    <div class=\"mbr-plan-body card-block\">\n                      <div class=\"mbr-plan-list mbr-editable-content\" code-editable-id=\"28\"><ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><span style=\"font-size: 0.875rem; line-height: 3.125rem;\">Preis gilt für eine Kassa</span></li><li class=\"list-group-item\"><span style=\"font-size: 0.875rem; line-height: 3.125rem;\">Unlimitiert erweiterbar</span><br></li><li class=\"list-group-item\">Einfach selbst bestimmen welche Kassa zu welchem Standort gehört</li><li class=\"list-group-item\">Für bis zu 10.000 Signaturen pro Jahr</li></ul></div>\n                      \n                    </div>\n                </div>\n            </div>\n            <div class=\"col-xs-12 col-md-6 col-xl-4\">\n                <div class=\"mbr-plan card text-xs-center\">\n                    <div class=\"mbr-plan-header card-block\">\n                      \n                      <div class=\"card-title\">\n                        <h3 class=\"mbr-plan-title mbr-editable-content\" code-editable-id=\"29\">High-Volume</h3>\n                        <small class=\"mbr-plan-subtitle mbr-editable-content\" code-editable-id=\"30\"><p>Für Unternehmer mit <br>großem Bon-Aufkommen&nbsp; &nbsp;</p></small>\n                      </div>\n                      <div class=\"card-text\">\n                          <div class=\"mbr-price\">\n                            <span class=\"mbr-price-value mbr-editable-content\" code-editable-id=\"31\">ab €</span>\n                            <span class=\"mbr-price-figure mbr-editable-content\" code-editable-id=\"32\">599</span><small class=\"mbr-price-term mbr-editable-content\" code-editable-id=\"33\"></small>\n                          </div>\n                          <small class=\"mbr-plan-price-desc mbr-editable-content\" code-editable-id=\"34\">Einmalige Gebühr für ein Upgrade pro Kassa</small>\n                      </div>\n                    </div>\n                    <div class=\"mbr-plan-body card-block\">\n                      <div class=\"mbr-plan-list mbr-editable-content\" code-editable-id=\"35\"><ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><span style=\"font-size: 0.875rem; line-height: 3.125rem;\">Für Unternehmen mit großem Kundenaufkommen pro Tag.</span><br></li><li class=\"list-group-item\">Bitte kontaktieren Sie unseren Support.</li><li class=\"list-group-item\">Derzeit bedingt verfügbar.</li></ul></div>\n                      \n                    </div>\n                </div>\n            </div>\n            \n          </div>\n    </div>\n\n</section>",
+          "_customHTML": "<section class=\"mbr-section\" data-rv-view=\"40\" style=\"background-color: rgb(255, 255, 255); padding-top: 40px; padding-bottom: 120px;\">\n\n    \n\n    <div class=\"mbr-section mbr-section__container mbr-section__container--middle\">\n      <div class=\"container\">\n          <div class=\"row\">\n              <div class=\"col-xs-12 text-xs-center\">\n                  <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"24\">PREISE</h3>\n                  \n              </div>\n          </div>\n      </div>\n    </div>\n\n    <div class=\"mbr-section mbr-section-nopadding mbr-price-table\">\n      <div class=\"row\">\n            <div class=\"col-xs-12 col-md-6 col-xl-4\">\n                <div class=\"mbr-plan card text-xs-center\">\n                    <div class=\"mbr-plan-header card-block\">\n                      \n                      <div class=\"card-title\">\n                        <h3 class=\"mbr-plan-title mbr-editable-content\" code-editable-id=\"25\">Einrichtung</h3>\n                        <small class=\"mbr-plan-subtitle mbr-editable-content\" code-editable-id=\"26\">Beantragung der Zugangsdaten von A-Trust und <br>Bereitstellung der Zertifikate für Finanz.Online.</small>\n                      </div>\n                      <div class=\"card-text\">\n                          <div class=\"mbr-price\">\n                            <span class=\"mbr-price-value mbr-editable-content\" code-editable-id=\"27\">$</span>\n                            <span class=\"mbr-price-figure mbr-editable-content\" code-editable-id=\"28\">99</span><small class=\"mbr-price-term mbr-editable-content\" code-editable-id=\"29\"></small>\n                          </div>\n                          <small class=\"mbr-plan-price-desc mbr-editable-content\" code-editable-id=\"30\">Einmalige Gebühr pro Kassa.<br></small>\n                      </div>\n                    </div>\n                    <div class=\"mbr-plan-body card-block\">\n                      <div class=\"mbr-plan-list mbr-editable-content\" code-editable-id=\"31\"><ul class=\"list-group list-group-flush\"><span style=\"font-size: 0.875rem; line-height: 3.125rem;\">Für die Zertifikatbeantragung bei A-Trust</span><br><li class=\"list-group-item\">Bereitstellung der Daten für FinanzOnline</li><li class=\"list-group-item\">Zertifikat gültig für 5 Jahre</li><li class=\"list-group-item\">Ein getrennter Rechnungskreis pro Standort</li><li class=\"list-group-item\">Wird direkt über Shopify abgerechnet (daher in USD).</li></ul></div>\n                      \n                    </div>\n                </div>\n            </div>\n            <div class=\"col-xs-12 col-md-6 col-xl-4\">\n                <div class=\"mbr-plan card text-xs-center\">\n                    <div class=\"mbr-plan-header card-block\">\n                      \n                      <div class=\"card-title\">\n                        <h3 class=\"mbr-plan-title mbr-editable-content\" code-editable-id=\"32\">Basic Kassa</h3>\n                        <small class=\"mbr-plan-subtitle mbr-editable-content\" code-editable-id=\"33\">Dies ist Ihr Rechnungskreis. <br>Eine Kassa wird pro Standort benötigt. <br></small>\n                      </div>\n                      <div class=\"card-text\">\n                          <div class=\"mbr-price\">\n                            <span class=\"mbr-price-value mbr-editable-content\" code-editable-id=\"34\">$</span>\n                            <span class=\"mbr-price-figure mbr-editable-content\" code-editable-id=\"35\">15</span><small class=\"mbr-price-term mbr-editable-content\" code-editable-id=\"36\">/Mo.</small>\n                          </div>\n                          <small class=\"mbr-plan-price-desc mbr-editable-content\" code-editable-id=\"37\">pro Standort</small>\n                      </div>\n                    </div>\n                    <div class=\"mbr-plan-body card-block\">\n                      <div class=\"mbr-plan-list mbr-editable-content\" code-editable-id=\"38\"><ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><span style=\"font-size: 0.875rem; line-height: 3.125rem;\">Preis gilt für eine Kassa</span></li><li class=\"list-group-item\"><span style=\"font-size: 0.875rem; line-height: 3.125rem;\">Unlimitiert erweiterbar</span><br></li><li class=\"list-group-item\">Einfach selbst bestimmen welche Kassa zu welchem Standort gehört</li><li class=\"list-group-item\">Für bis zu 10.000 Signaturen pro Jahr</li></ul></div>\n                      \n                    </div>\n                </div>\n            </div>\n            <div class=\"col-xs-12 col-md-6 col-xl-4\">\n                <div class=\"mbr-plan card text-xs-center\">\n                    <div class=\"mbr-plan-header card-block\">\n                      \n                      <div class=\"card-title\">\n                        <h3 class=\"mbr-plan-title mbr-editable-content\" code-editable-id=\"39\">High-Volume</h3>\n                        <small class=\"mbr-plan-subtitle mbr-editable-content\" code-editable-id=\"40\"><p>Für Unternehmer mit <br>großem Bon-Aufkommen&nbsp; &nbsp;</p></small>\n                      </div>\n                      <div class=\"card-text\">\n                          <div class=\"mbr-price\">\n                            <span class=\"mbr-price-value mbr-editable-content\" code-editable-id=\"41\">ab €</span>\n                            <span class=\"mbr-price-figure mbr-editable-content\" code-editable-id=\"42\">599</span><small class=\"mbr-price-term mbr-editable-content\" code-editable-id=\"43\"></small>\n                          </div>\n                          <small class=\"mbr-plan-price-desc mbr-editable-content\" code-editable-id=\"44\">Einmalige Gebühr für ein Upgrade pro Kassa</small>\n                      </div>\n                    </div>\n                    <div class=\"mbr-plan-body card-block\">\n                      <div class=\"mbr-plan-list mbr-editable-content\" code-editable-id=\"45\"><ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><span style=\"font-size: 0.875rem; line-height: 3.125rem;\">Für Unternehmen mit großem Kundenaufkommen pro Tag.</span><br></li><li class=\"list-group-item\">Bitte kontaktieren Sie unseren Support.</li><li class=\"list-group-item\">Derzeit bedingt verfügbar.</li></ul></div>\n                      \n                    </div>\n                </div>\n            </div>\n            \n          </div>\n    </div>\n\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customTemplate": true
@@ -1060,11 +1073,6 @@
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Kontaktformular absenden</a>"
         },
         {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts2",
-          "_anchor": "contacts2-h",
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
@@ -1075,16 +1083,34 @@
             "bgColor": "#2e2e2e",
             "overlay": true,
             "overlayColor": "#3C3C3C",
-            "overlayOpacity": 0.8,
-            "googleMap": {
-              "address": "Graz, Neubaugasse 24",
-              "placeId": "ChIJNUuTcpw1bkcRefWyN2qaTKQ",
-              "state": "ok",
-              "stateDetails": ""
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/icon-square-128x128.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
+              "name": "info",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": 0
             }
           },
-          "text1": "<strong>Adresse</strong><br>Craft-IT<br>Neubaugasse 24,<br>8020 Graz<br><br><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Kontakt</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br>\nEmail: office@posmodule.com<br>Telefon: +43 660 799 48 97<br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Mehr</strong></p><ul><li><a href=\"agb.html\">Allgemeine Geschäftsbedingungen</a></li><li><a href=\"https://www.facebook.com/Posmodule-298038257280778/\" target=\"_blank\">POS Module auf Facebook</a></li><li><a href=\"http://apps.shopify.com/posmodule\" target=\"_blank\">Addon bei Shopify</a></li><br></ul>"
+          "text1": "<strong>Adresse</strong><br>Craft-IT<br>Neubaugasse 24<br>8020 Graz",
+          "text2": "<strong>Kontakt</strong><br>\nEmail: office@posmodule.com<br>\nTelefon: +43 660 799 48 97<br><br>",
+          "text3": "<strong>Mehr</strong><br>\n<a class=\"text-primary\" href=\"agb.html\">AGB</a><br><a href=\"https://www.facebook.com/Posmodule-298038257280778/\" target=\"_blank\">Posmodule auf Facebook</a><br><a href=\"http://apps.shopify.com/posmodule\">Addon bei Shopify</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-1o"
         }
       ]
     },
@@ -1286,11 +1312,6 @@
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Kontaktformular absenden</a>"
         },
         {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts2",
-          "_anchor": "contacts2-p",
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
@@ -1301,16 +1322,34 @@
             "bgColor": "#2e2e2e",
             "overlay": true,
             "overlayColor": "#3C3C3C",
-            "overlayOpacity": 0.8,
-            "googleMap": {
-              "address": "Graz, Neubaugasse 24",
-              "placeId": "ChIJNUuTcpw1bkcRefWyN2qaTKQ",
-              "state": "ok",
-              "stateDetails": ""
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/icon-square-128x128.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
+              "name": "info",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": 0
             }
           },
-          "text1": "<strong>Adresse</strong><br>Craft-IT<br>Neubaugasse 24,<br>8020 Graz<br><br><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Kontakt</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br>\nEmail: office@posmodule.com<br>Telefon: +43 660 799 48 97<br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Mehr</strong></p><ul><li><a href=\"agb.html\">Allgemeine Geschäftsbedingungen</a></li><li><a href=\"https://www.facebook.com/Posmodule-298038257280778/\" target=\"_blank\">POS Module auf Facebook</a></li><li>Addon bei Shopify</li><br></ul>"
+          "text1": "<strong>Adresse</strong><br>Craft-IT<br>Neubaugasse 24<br>8020 Graz",
+          "text2": "<strong>Kontakt</strong><br>\nEmail: office@posmodule.com<br>\nTelefon: +43 660 799 48 97<br><br>",
+          "text3": "<strong>Mehr</strong><br>\n<a class=\"text-primary\" href=\"agb.html\">AGB</a><br><a href=\"https://www.facebook.com/Posmodule-298038257280778/\" target=\"_blank\">Posmodule auf Facebook</a><br><a href=\"http://apps.shopify.com/posmodule\">Addon bei Shopify</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-1o"
         }
       ]
     },
@@ -1528,7 +1567,7 @@
             }
           },
           "text1": "<strong>Adresse</strong><br>Craft-IT<br>Neubaugasse 24,<br>8020 Graz<br><br><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Kontakt</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br>\nEmail: office@posmodule.com<br>Telefon: +43 660 799 48 97<br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Mehr</strong></p><ul><li><a href=\"agb.html\">Allgemeine Geschäftsbedingungen</a></li><li><a href=\"https://www.facebook.com/Posmodule-298038257280778/\" target=\"_blank\">POS Module auf Facebook</a></li><li>Addon bei Shopify</li><br></ul>"
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Mehr</strong></p><ul><li><a href=\"agb.html\">Allgemeine Geschäftsbedingungen</a></li><li>POS Module auf Facebook</li><li><a href=\"http://apps.shopify.com/posmodule\" target=\"_blank\">Addon bei Shopify</a></li><br></ul>"
         }
       ]
     },
@@ -1743,29 +1782,6 @@
           "subtitle": "Shape your future web project with sharp design and refine coded functions."
         },
         {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "P": {
-              "text-align": "center"
-            }
-          },
-          "_anchor": "content1-1h",
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "3",
-            "bgColor": "#ffffff"
-          },
-          "text": "<p><b>Phillip Stecher</b></p><p>Phillip programmiert Software für große Hotelketten. </p><p>Er schreibt die Schnittstelle zur Registrierkassenverordnung für das POS Module.&nbsp;</p>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts2",
-          "_anchor": "contacts2-y",
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
@@ -1776,16 +1792,34 @@
             "bgColor": "#2e2e2e",
             "overlay": true,
             "overlayColor": "#3C3C3C",
-            "overlayOpacity": 0.8,
-            "googleMap": {
-              "address": "Graz, Neubaugasse 24",
-              "placeId": "ChIJNUuTcpw1bkcRefWyN2qaTKQ",
-              "state": "ok",
-              "stateDetails": ""
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/icon-square-128x128.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
+              "name": "info",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": 0
             }
           },
-          "text1": "<strong>Adresse</strong><br>Craft-IT<br>Neubaugasse 24,<br>8020 Graz<br><br><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Kontakt</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br>\nEmail: office@posmodule.com<br>Telefon: +43 660 799 48 97<br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Mehr</strong></p><ul><li><a href=\"agb.html\">Allgemeine Geschäftsbedingungen</a></li><li><a href=\"https://www.facebook.com/Posmodule-298038257280778/\" target=\"_blank\">POS Module auf Facebook</a></li><li>Addon bei Shopify</li><br></ul>"
+          "text1": "<strong>Adresse</strong><br>Craft-IT<br>Neubaugasse 24<br>8020 Graz",
+          "text2": "<strong>Kontakt</strong><br>\nEmail: office@posmodule.com<br>\nTelefon: +43 660 799 48 97<br><br>",
+          "text3": "<strong>Mehr</strong><br>\n<a class=\"text-primary\" href=\"agb.html\">AGB</a><br><a href=\"https://www.facebook.com/Posmodule-298038257280778/\" target=\"_blank\">Posmodule auf Facebook</a><br><a href=\"http://apps.shopify.com/posmodule\">Addon bei Shopify</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-1o"
         }
       ]
     },
@@ -1907,7 +1941,7 @@
             }
           },
           "text1": "<strong>Adresse</strong><br>Craft-IT<br>Neubaugasse 24,<br>8020 Graz<br><br><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Kontakt</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br>\nEmail: office@posmodule.com<br>Telefon: +43 660 799 48 97<br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Mehr</strong></p><ul><li><a href=\"agb.html\">Allgemeine Geschäftsbedingungen</a></li><li><a href=\"https://www.facebook.com/Posmodule-298038257280778/\" target=\"_blank\">POS Module auf Facebook</a></li><li>Addon bei Shopify</li><br></ul>"
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Mehr</strong></p><ul><li><a href=\"agb.html\">Allgemeine Geschäftsbedingungen</a></li><li>POS Module auf Facebook</li><li><a href=\"http://apps.shopify.com/posmodule\" target=\"_blank\">Addon bei Shopify</a></li><br></ul>"
         }
       ]
     }
