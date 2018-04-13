@@ -384,7 +384,12 @@
           },
           "title": "Das ist Shopify POS<br>",
           "text": "Egal ob Sie im eigenen Geschäft, Online, über Social Media oder aus dem Kofferraum heraus verkaufen. Shopify ist für Sie da! <br><br>Und PosModule stellt sicher, dass das alles RKSV-konform ist.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.shopify.com/?ref=craft-it\" data-toolbar=\"-mbrBtnMove\">MEHR INFORMATIONEN</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.shopify.com/?ref=craft-it\" data-toolbar=\"-mbrBtnMove\">MEHR INFORMATIONEN</a>",
+          "_customHTML": "<section class=\"mbr-section\" data-rv-view=\"10\" style=\"background-color: rgb(242, 242, 242); padding-top: 120px; padding-bottom: 120px;\">\n\n    \n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"mbr-table-md-up\">\n\n              <div class=\"mbr-table-cell mbr-right-padding-md-up mbr-valign-top col-md-7 image-size\" style=\"width: 50%;\">\n                  <div class=\"mbr-figure\"><iframe class=\"mbr-embedded-video\" src=\"https://www.youtube-nocookie.com/embed/8y4JzCopAPg?rel=0&amp;amp;showinfo=0&amp;autoplay=0&amp;loop=0\" width=\"1280\" height=\"720\" frameborder=\"0\" allowfullscreen=\"\"></iframe></div>\n              </div>\n\n              \n\n\n              <div class=\"mbr-table-cell col-md-5 text-xs-center text-md-left content-size\">\n                  <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"98\">Das ist Shopify POS<br></h3>\n                  <div class=\"lead\">\n\n                    <p class=\"mbr-editable-content\" code-editable-id=\"99\">Egal ob Sie im eigenen Geschäft, Online, über Social Media oder aus dem Kofferraum heraus verkaufen. Shopify ist für Sie da! <br><br>Und PosModule stellt sicher, dass das alles RKSV-konform ist.</p>\n\n                  </div>\n\n                  <div><a class=\"btn btn-primary mbr-editable-button\" href=\"https://www.shopify.com/?ref=craft-it\" code-editable-id=\"100\">MEHR INFORMATIONEN</a></div>\n              </div>\n\n\n              \n\n            </div>\n        </div>\n    </div>\n\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "",
+          "_customTemplate": true
         },
         {
           "_tags": [
