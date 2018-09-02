@@ -450,7 +450,7 @@
           "title": "Noch Fragen?",
           "subtitle": "Kontaktieren Sie uns gleich!",
           "form": {
-            "action": "thomas+mobirise@craft-it.co",
+            "action": "thomas@bitcoders.co",
             "alerts": {
               "success": "Danke, wir melden uns in Kürze!"
             },
