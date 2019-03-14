@@ -181,7 +181,15 @@
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": ".mbr-section-title {\n  color: #28262b;\n}\n.mbr-section-text {\n  color: #565656;\n}\n",
-          "_customTemplate": true
+          "_customTemplate": true,
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#000000"
+            },
+            ".mbr-section-text": {
+              "color": "#000000"
+            }
+          }
         },
         {
           "_styles": {
