@@ -23,11 +23,12 @@
     },
     "versionFirst": "3.12.1",
     "uniqCompNum": 62,
-    "versionPublish": "4.5.0",
+    "versionPublish": "4.9.5",
     "favicon": "",
     "noImageResize": "",
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "siteFonts": []
   },
   "pages": {
     "index.html": {
@@ -450,7 +451,7 @@
           "title": "Noch Fragen?",
           "subtitle": "Kontaktieren Sie uns gleich!",
           "form": {
-            "action": "thomas@bitcoders.co",
+            "action": "office@posmodule.com",
             "alerts": {
               "success": "Danke, wir melden uns in Kürze!"
             },
@@ -509,8 +510,8 @@
               "size": 0
             }
           },
-          "text1": "<strong>Adresse (Impressum)</strong><br>Craft-IT<br>Neubaugasse 24<br>8020 Graz",
-          "text2": "<strong>Kontakt</strong><br>\nEmail: office@posmodule.com<br>\nTelefon: +43 660 799 48 97<br><br>",
+          "text1": "<strong>Adresse (Impressum)</strong><br>moving primates GmbH<br>Pass-Thurn-Straße 19<br>6380 St. Johann in Tirol<br>Österreich",
+          "text2": "<strong>Kontakt</strong><br>\nEmail: office@posmodule.com<br>\nTelefon: +49 89 25 55 19 110<br><br>",
           "text3": "<strong>Mehr</strong><br>\n<a class=\"text-primary\" href=\"agb.html\">AGB</a><br><a href=\"https://www.facebook.com/Posmodule-298038257280778/\" target=\"_blank\">Posmodule auf Facebook</a><br><a href=\"http://apps.shopify.com/posmodule\">Addon bei Shopify</a><br><a href=\"assets/files/DSGVO%20Posmodule.pdf\">Datenschutz und GDPR/DSGVO</a>",
           "_tags": [
             "Theme"
@@ -648,7 +649,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/desert.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -790,7 +791,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/desert.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -1105,8 +1106,8 @@
               "size": 0
             }
           },
-          "text1": "<strong>Adresse (Impressum)</strong><br>Craft-IT<br>Neubaugasse 24<br>8020 Graz",
-          "text2": "<strong>Kontakt</strong><br>\nEmail: office@posmodule.com<br>\nTelefon: +43 660 799 48 97<br><br>",
+          "text1": "<strong>Adresse (Impressum)</strong><br>moving primates GmbH<br>Pass-Thurn-Straße 19<br>6380 St. Johann in Tirol<br>Österreich",
+          "text2": "<strong>Kontakt</strong><br>\nEmail: office@posmodule.com<br>\nTelefon: +49 89 25 55 19 110<br><br>",
           "text3": "<strong>Mehr</strong><br>\n<a class=\"text-primary\" href=\"agb.html\">AGB</a><br><a href=\"https://www.facebook.com/Posmodule-298038257280778/\" target=\"_blank\">Posmodule auf Facebook</a><br><a href=\"http://apps.shopify.com/posmodule\">Addon bei Shopify</a><br><a href=\"assets/files/DSGVO%20Posmodule.pdf\">Datenschutz und GDPR/DSGVO</a>",
           "_tags": [
             "Theme"
@@ -1344,8 +1345,8 @@
               "size": 0
             }
           },
-          "text1": "<strong>Adresse (Impressum)</strong><br>Craft-IT<br>Neubaugasse 24<br>8020 Graz",
-          "text2": "<strong>Kontakt</strong><br>\nEmail: office@posmodule.com<br>\nTelefon: +43 660 799 48 97<br><br>",
+          "text1": "<strong>Adresse (Impressum)</strong><br>moving primates GmbH<br>Pass-Thurn-Straße 19<br>6380 St. Johann in Tirol<br>Österreich",
+          "text2": "<strong>Kontakt</strong><br>\nEmail: office@posmodule.com<br>\nTelefon: +49 89 25 55 19 110<br><br>",
           "text3": "<strong>Mehr</strong><br>\n<a class=\"text-primary\" href=\"agb.html\">AGB</a><br><a href=\"https://www.facebook.com/Posmodule-298038257280778/\" target=\"_blank\">Posmodule auf Facebook</a><br><a href=\"http://apps.shopify.com/posmodule\">Addon bei Shopify</a><br><a href=\"assets/files/DSGVO%20Posmodule.pdf\">Datenschutz und GDPR/DSGVO</a>",
           "_tags": [
             "Theme"
@@ -1466,7 +1467,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/desert.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -1814,8 +1815,8 @@
               "size": 0
             }
           },
-          "text1": "<strong>Adresse (Impressum)</strong><br>Craft-IT<br>Neubaugasse 24<br>8020 Graz",
-          "text2": "<strong>Kontakt</strong><br>\nEmail: office@posmodule.com<br>\nTelefon: +43 660 799 48 97<br><br>",
+          "text1": "<strong>Adresse (Impressum)</strong><br>moving primates GmbH<br>Pass-Thurn-Straße 19<br>6380 St. Johann in Tirol<br>Österreich",
+          "text2": "<strong>Kontakt</strong><br>\nEmail: office@posmodule.com<br>\nTelefon: +49 89 25 55 19 110<br><br>",
           "text3": "<strong>Mehr</strong><br>\n<a class=\"text-primary\" href=\"agb.html\">AGB</a><br><a href=\"https://www.facebook.com/Posmodule-298038257280778/\" target=\"_blank\">Posmodule auf Facebook</a><br><a href=\"http://apps.shopify.com/posmodule\">Addon bei Shopify</a><br><a href=\"assets/files/DSGVO%20Posmodule.pdf\">Datenschutz und GDPR/DSGVO</a>",
           "_tags": [
             "Theme"
