@@ -23,7 +23,7 @@
       "additionalSetColors": []
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 65,
+    "uniqCompNum": 73,
     "versionPublish": "4.9.5",
     "favicon": "",
     "noImageResize": "",
@@ -181,15 +181,7 @@
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": ".mbr-section-title {\n  color: #28262b;\n}\n.mbr-section-text {\n  color: #565656;\n}\n",
-          "_customTemplate": true,
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#000000"
-            },
-            ".mbr-section-text": {
-              "color": "#28324e"
-            }
-          }
+          "_customTemplate": true
         },
         {
           "_styles": {
@@ -519,9 +511,9 @@
               "size": 0
             }
           },
-          "text1": "<strong>Adresse (Impressum)</strong><br>moving primates GmbH<br>Pass-Thurn-Straße 19<br>6380 St. Johann in Tirol<br>Österreich",
-          "text2": "<strong>Kontakt</strong><br>\nEmail: office@posmodule.com<br>\nTelefon: +49 89 25 55 19 110<br><br>",
-          "text3": "<strong>Mehr</strong><br>\n<a class=\"text-primary\" href=\"agb.html\">AGB</a><br><a href=\"https://www.facebook.com/posmodule\" target=\"_blank\">Posmodule auf Facebook</a><br><a href=\"http://apps.shopify.com/posmodule\">Addon bei Shopify</a><br><a href=\"assets/files/DSGVO%20Posmodule.pdf\">Datenschutz und GDPR/DSGVO</a>",
+          "text1": "<strong>Adresse&nbsp;</strong><br>moving primates GmbH<br>Pass-Thurn-Straße 19<br>6380 St. Johann in Tirol<br>Österreich",
+          "text2": "<strong>Kontakt</strong><br>\nEmail: office@posmodule.com<br>\nTelefon: <a href=\"tel:+4989255519110\">+49 89 25 55 19 110</a><br><br>",
+          "text3": "<strong>Mehr</strong><br><a href=\"impressum.html\">Impressum</a><br><a class=\"text-primary\" href=\"agb.html\">AGB</a><br><a href=\"https://www.facebook.com/posmodule\" target=\"_blank\">Posmodule auf Facebook</a><br><a href=\"http://apps.shopify.com/posmodule\">Addon bei Shopify</a><br><a href=\"assets/files/DSGVO%20Posmodule.pdf\">Datenschutz und GDPR/DSGVO</a>",
           "_tags": [
             "Theme"
           ],
@@ -694,7 +686,7 @@
       "settings": {
         "title": "POSModule: Preise",
         "meta_descr": "Preise vom POS Module",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -1132,9 +1124,9 @@
               "size": 0
             }
           },
-          "text1": "<strong>Adresse (Impressum)</strong><br>moving primates GmbH<br>Pass-Thurn-Straße 19<br>6380 St. Johann in Tirol<br>Österreich",
-          "text2": "<strong>Kontakt</strong><br>\nEmail: office@posmodule.com<br>\nTelefon: +49 89 25 55 19 110<br><br>",
-          "text3": "<strong>Mehr</strong><br>\n<a class=\"text-primary\" href=\"agb.html\">AGB</a><br><a href=\"https://www.facebook.com/posmodule\" target=\"_blank\">Posmodule auf Facebook</a><br><a href=\"http://apps.shopify.com/posmodule\">Addon bei Shopify</a><br><a href=\"assets/files/DSGVO%20Posmodule.pdf\">Datenschutz und GDPR/DSGVO</a>",
+          "text1": "<strong>Adresse&nbsp;</strong><br>moving primates GmbH<br>Pass-Thurn-Straße 19<br>6380 St. Johann in Tirol<br>Österreich",
+          "text2": "<strong>Kontakt</strong><br>\nEmail: office@posmodule.com<br>\nTelefon: <a href=\"tel:+4989255519110\">+49 89 25 55 19 110</a><br><br>",
+          "text3": "<strong>Mehr</strong><br><a href=\"impressum.html\">Impressum</a><br><a class=\"text-primary\" href=\"agb.html\">AGB</a><br><a href=\"https://www.facebook.com/posmodule\" target=\"_blank\">Posmodule auf Facebook</a><br><a href=\"http://apps.shopify.com/posmodule\">Addon bei Shopify</a><br><a href=\"assets/files/DSGVO%20Posmodule.pdf\">Datenschutz und GDPR/DSGVO</a>",
           "_tags": [
             "Theme"
           ],
@@ -1147,7 +1139,7 @@
       "settings": {
         "title": "POSModule: Frequently Asked Questions",
         "meta_descr": "Häufig gestellte Fragen über POS Module",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -1372,9 +1364,9 @@
               "size": 0
             }
           },
-          "text1": "<strong>Adresse (Impressum)</strong><br>moving primates GmbH<br>Pass-Thurn-Straße 19<br>6380 St. Johann in Tirol<br>Österreich",
-          "text2": "<strong>Kontakt</strong><br>\nEmail: office@posmodule.com<br>\nTelefon: +49 89 25 55 19 110<br><br>",
-          "text3": "<strong>Mehr</strong><br>\n<a class=\"text-primary\" href=\"agb.html\">AGB</a><br><a href=\"https://www.facebook.com/posmodule\" target=\"_blank\">Posmodule auf Facebook</a><br><a href=\"http://apps.shopify.com/posmodule\">Addon bei Shopify</a><br><a href=\"assets/files/DSGVO%20Posmodule.pdf\">Datenschutz und GDPR/DSGVO</a>",
+          "text1": "<strong>Adresse&nbsp;</strong><br>moving primates GmbH<br>Pass-Thurn-Straße 19<br>6380 St. Johann in Tirol<br>Österreich",
+          "text2": "<strong>Kontakt</strong><br>\nEmail: office@posmodule.com<br>\nTelefon: <a href=\"tel:+4989255519110\">+49 89 25 55 19 110</a><br><br>",
+          "text3": "<strong>Mehr</strong><br><a href=\"impressum.html\">Impressum</a><br><a class=\"text-primary\" href=\"agb.html\">AGB</a><br><a href=\"https://www.facebook.com/posmodule\" target=\"_blank\">Posmodule auf Facebook</a><br><a href=\"http://apps.shopify.com/posmodule\">Addon bei Shopify</a><br><a href=\"assets/files/DSGVO%20Posmodule.pdf\">Datenschutz und GDPR/DSGVO</a>",
           "_tags": [
             "Theme"
           ],
@@ -1387,7 +1379,7 @@
       "settings": {
         "title": "POSModule: Team",
         "meta_descr": "Das Team hinter POSModule.com",
-        "order": 5
+        "order": 6
       },
       "components": [
         {
@@ -1625,9 +1617,9 @@
               "size": 0
             }
           },
-          "text1": "<strong>Adresse (Impressum)</strong><br>moving primates GmbH<br>Pass-Thurn-Straße 19<br>6380 St. Johann in Tirol<br>Österreich",
-          "text2": "<strong>Kontakt</strong><br>\nEmail: office@posmodule.com<br>\nTelefon: +49 89 25 55 19 110<br><br>",
-          "text3": "<strong>Mehr</strong><br>\n<a class=\"text-primary\" href=\"agb.html\">AGB</a><br><a href=\"https://www.facebook.com/posmodule\" target=\"_blank\">Posmodule auf Facebook</a><br><a href=\"http://apps.shopify.com/posmodule\">Addon bei Shopify</a><br><a href=\"assets/files/DSGVO%20Posmodule.pdf\">Datenschutz und GDPR/DSGVO</a>",
+          "text1": "<strong>Adresse&nbsp;</strong><br>moving primates GmbH<br>Pass-Thurn-Straße 19<br>6380 St. Johann in Tirol<br>Österreich",
+          "text2": "<strong>Kontakt</strong><br>\nEmail: office@posmodule.com<br>\nTelefon: <a href=\"tel:+4989255519110\">+49 89 25 55 19 110</a><br><br>",
+          "text3": "<strong>Mehr</strong><br><a href=\"impressum.html\">Impressum</a><br><a class=\"text-primary\" href=\"agb.html\">AGB</a><br><a href=\"https://www.facebook.com/posmodule\" target=\"_blank\">Posmodule auf Facebook</a><br><a href=\"http://apps.shopify.com/posmodule\">Addon bei Shopify</a><br><a href=\"assets/files/DSGVO%20Posmodule.pdf\">Datenschutz und GDPR/DSGVO</a>",
           "_tags": [
             "Theme"
           ],
@@ -1640,7 +1632,7 @@
       "settings": {
         "title": "Web Maker Title",
         "meta_descr": "Web Maker Description",
-        "order": 6
+        "order": 7
       },
       "components": [
         {
@@ -1756,6 +1748,207 @@
           },
           "text1": "<strong>Adresse</strong><br>Craft-IT<br>Neubaugasse 24,<br>8020 Graz<br><br><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Kontakt</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br>\nEmail: office@posmodule.com<br>Telefon: +43 660 799 48 97<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Mehr</strong></p><ul><li><a href=\"agb.html\">Allgemeine Geschäftsbedingungen</a></li><li>POS Module auf Facebook</li><li><a href=\"http://apps.shopify.com/posmodule\" target=\"_blank\">Addon bei Shopify</a></li><br></ul>"
+        }
+      ]
+    },
+    "impressum.html": {
+      "settings": {
+        "title": "POSModule: Impressum",
+        "meta_descr": "Impresum Posmodule.com",
+        "order": 2
+      },
+      "components": [
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-1",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2019 Posmodule."
+        },
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "1.05rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.137rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#7c706b!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-x",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#282828",
+            "fontSize": "1.05",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/icon-square-128x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">POS Module</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-f\">SO GEHT'S</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"preise.html\">&nbsp;PREISE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"faq.html\">FAQ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"team.html\">TEAM</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"http://apps.shopify.com/posmodule\">BESTELLEN</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-3",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/desert.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Allgemeine Geschäftsbedingungen",
+          "text": "<p>posmodule.com</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-4",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<h1><b style=\"color: inherit; font-size: 2.5rem; line-height: 1.1;\">Impressum</b></h1><h1><b style=\"color: inherit; font-size: 2.5rem; line-height: 1.1;\">moving primates GmbH</b></h1><p><br></p>",
+          "_styles": {
+            "H1": {
+              "font-size": "36px",
+              "text-align": "center"
+            },
+            "P": {
+              "font-size": "17px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p><b style=\"font-size: 1.07rem;\">Standort</b><span style=\"font-size: 1.07rem;\"> </span><b style=\"font-size: 1.07rem;\">Österreich</b><br></p><p><br></p><p>moving primates GmbH</p><p>Pass-Thurn-Straße 19</p><p>6380 St. Johann in Tirol</p><p>Österreich</p><p><br></p><p><i>Geschäftsführer: Klaus Rautenberg</i></p><p><i><br></i></p><p><i>UID: ATU73963302</i></p><p><i>Firmenbuch: FN 500750y</i></p><p><i>Firmengericht: Landesgericht Innsbruck</i></p><p><br></p>",
+          "text2": "<p><b>Standort Deutschland</b></p><p><br></p><p>moving primates GmbH</p><p>Grünwalder Weg 13a</p><p>82008 Unterhaching</p><p>Deutschland</p><p><br></p><p><i>Geschäftsführer: Klaus Rautenberg</i></p><p><i><br></i></p><p><i>USt-IdNr. gemäß §27 UStG: DE223991012</i></p><p><i>Amtsgericht München HRB 143979</i></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-1u"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "3",
+            "bgColor": "#fff"
+          },
+          "text": "<p><b>Kontakt:</b></p><p>Tel: +49 89 255 519 110</p><p>Fax: +49 89 255 519 113</p><p>Email: kontakt@movingprimates.de</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1v",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          }
         }
       ]
     }
