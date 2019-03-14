@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "preise.html",
+    "currentPage": "faq.html",
     "name": "PosModule.com",
     "theme": {
       "name": "mobirise3",
@@ -23,7 +23,7 @@
       "additionalSetColors": []
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 63,
+    "uniqCompNum": 65,
     "versionPublish": "4.9.5",
     "favicon": "",
     "noImageResize": "",
@@ -513,7 +513,7 @@
           },
           "text1": "<strong>Adresse (Impressum)</strong><br>moving primates GmbH<br>Pass-Thurn-Straße 19<br>6380 St. Johann in Tirol<br>Österreich",
           "text2": "<strong>Kontakt</strong><br>\nEmail: office@posmodule.com<br>\nTelefon: +49 89 25 55 19 110<br><br>",
-          "text3": "<strong>Mehr</strong><br>\n<a class=\"text-primary\" href=\"agb.html\">AGB</a><br><a href=\"https://www.facebook.com/Posmodule-298038257280778/\" target=\"_blank\">Posmodule auf Facebook</a><br><a href=\"http://apps.shopify.com/posmodule\">Addon bei Shopify</a><br><a href=\"assets/files/DSGVO%20Posmodule.pdf\">Datenschutz und GDPR/DSGVO</a>",
+          "text3": "<strong>Mehr</strong><br>\n<a class=\"text-primary\" href=\"agb.html\">AGB</a><br><a href=\"https://www.facebook.com/posmodule\" target=\"_blank\">Posmodule auf Facebook</a><br><a href=\"http://apps.shopify.com/posmodule\">Addon bei Shopify</a><br><a href=\"assets/files/DSGVO%20Posmodule.pdf\">Datenschutz und GDPR/DSGVO</a>",
           "_tags": [
             "Theme"
           ],
@@ -525,7 +525,8 @@
     "agb.html": {
       "settings": {
         "title": "POSModule: Allgemeine Geschäftsbedingungen",
-        "meta_descr": "Allgemeine Geschäftsbedingungen Posmodule.com"
+        "meta_descr": "Allgemeine Geschäftsbedingungen Posmodule.com",
+        "order": 1
       },
       "components": [
         {
@@ -543,7 +544,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2016 Posmodule."
+          "text": "Copyright (c) 2019 Posmodule."
         },
         {
           "_inherit": "menu",
@@ -684,7 +685,8 @@
     "preise.html": {
       "settings": {
         "title": "POSModule: Preise",
-        "meta_descr": "Preise vom POS Module"
+        "meta_descr": "Preise vom POS Module",
+        "order": 3
       },
       "components": [
         {
@@ -1124,7 +1126,7 @@
           },
           "text1": "<strong>Adresse (Impressum)</strong><br>moving primates GmbH<br>Pass-Thurn-Straße 19<br>6380 St. Johann in Tirol<br>Österreich",
           "text2": "<strong>Kontakt</strong><br>\nEmail: office@posmodule.com<br>\nTelefon: +49 89 25 55 19 110<br><br>",
-          "text3": "<strong>Mehr</strong><br>\n<a class=\"text-primary\" href=\"agb.html\">AGB</a><br><a href=\"https://www.facebook.com/Posmodule-298038257280778/\" target=\"_blank\">Posmodule auf Facebook</a><br><a href=\"http://apps.shopify.com/posmodule\">Addon bei Shopify</a><br><a href=\"assets/files/DSGVO%20Posmodule.pdf\">Datenschutz und GDPR/DSGVO</a>",
+          "text3": "<strong>Mehr</strong><br>\n<a class=\"text-primary\" href=\"agb.html\">AGB</a><br><a href=\"https://www.facebook.com/posmodule\" target=\"_blank\">Posmodule auf Facebook</a><br><a href=\"http://apps.shopify.com/posmodule\">Addon bei Shopify</a><br><a href=\"assets/files/DSGVO%20Posmodule.pdf\">Datenschutz und GDPR/DSGVO</a>",
           "_tags": [
             "Theme"
           ],
@@ -1136,7 +1138,8 @@
     "faq.html": {
       "settings": {
         "title": "POSModule: Frequently Asked Questions",
-        "meta_descr": "Häufig gestellte Fragen über POS Module"
+        "meta_descr": "Häufig gestellte Fragen über POS Module",
+        "order": 4
       },
       "components": [
         {
@@ -1363,7 +1366,7 @@
           },
           "text1": "<strong>Adresse (Impressum)</strong><br>moving primates GmbH<br>Pass-Thurn-Straße 19<br>6380 St. Johann in Tirol<br>Österreich",
           "text2": "<strong>Kontakt</strong><br>\nEmail: office@posmodule.com<br>\nTelefon: +49 89 25 55 19 110<br><br>",
-          "text3": "<strong>Mehr</strong><br>\n<a class=\"text-primary\" href=\"agb.html\">AGB</a><br><a href=\"https://www.facebook.com/Posmodule-298038257280778/\" target=\"_blank\">Posmodule auf Facebook</a><br><a href=\"http://apps.shopify.com/posmodule\">Addon bei Shopify</a><br><a href=\"assets/files/DSGVO%20Posmodule.pdf\">Datenschutz und GDPR/DSGVO</a>",
+          "text3": "<strong>Mehr</strong><br>\n<a class=\"text-primary\" href=\"agb.html\">AGB</a><br><a href=\"https://www.facebook.com/posmodule\" target=\"_blank\">Posmodule auf Facebook</a><br><a href=\"http://apps.shopify.com/posmodule\">Addon bei Shopify</a><br><a href=\"assets/files/DSGVO%20Posmodule.pdf\">Datenschutz und GDPR/DSGVO</a>",
           "_tags": [
             "Theme"
           ],
@@ -1375,7 +1378,8 @@
     "team.html": {
       "settings": {
         "title": "POSModule: Team",
-        "meta_descr": "Das Team hinter POSModule.com"
+        "meta_descr": "Das Team hinter POSModule.com",
+        "order": 5
       },
       "components": [
         {
@@ -1615,7 +1619,7 @@
           },
           "text1": "<strong>Adresse (Impressum)</strong><br>moving primates GmbH<br>Pass-Thurn-Straße 19<br>6380 St. Johann in Tirol<br>Österreich",
           "text2": "<strong>Kontakt</strong><br>\nEmail: office@posmodule.com<br>\nTelefon: +49 89 25 55 19 110<br><br>",
-          "text3": "<strong>Mehr</strong><br>\n<a class=\"text-primary\" href=\"agb.html\">AGB</a><br><a href=\"https://www.facebook.com/Posmodule-298038257280778/\" target=\"_blank\">Posmodule auf Facebook</a><br><a href=\"http://apps.shopify.com/posmodule\">Addon bei Shopify</a><br><a href=\"assets/files/DSGVO%20Posmodule.pdf\">Datenschutz und GDPR/DSGVO</a>",
+          "text3": "<strong>Mehr</strong><br>\n<a class=\"text-primary\" href=\"agb.html\">AGB</a><br><a href=\"https://www.facebook.com/posmodule\" target=\"_blank\">Posmodule auf Facebook</a><br><a href=\"http://apps.shopify.com/posmodule\">Addon bei Shopify</a><br><a href=\"assets/files/DSGVO%20Posmodule.pdf\">Datenschutz und GDPR/DSGVO</a>",
           "_tags": [
             "Theme"
           ],
@@ -1627,7 +1631,8 @@
     "page6.html": {
       "settings": {
         "title": "Web Maker Title",
-        "meta_descr": "Web Maker Description"
+        "meta_descr": "Web Maker Description",
+        "order": 6
       },
       "components": [
         {
